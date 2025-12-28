@@ -1,6 +1,8 @@
 import os
 from flask import Flask, render_template
 from models import db, Anime, Episode
+from flask import send_from_directory
+
 
 # Load config
 from config import Config
@@ -18,6 +20,10 @@ try:
     migrate = Migrate(app, db)
 except Exception:
     migrate = None
+    
+@app.route('/ads.txt')
+def ads_txt():
+    return send_from_directory(os.getcwd(), 'ads.txt')
 
 @app.route("/")
 def home():
