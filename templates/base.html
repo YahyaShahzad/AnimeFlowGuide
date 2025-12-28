@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AnimeFlowGuide</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Fallback: local CSS provides basic styling if Tailwind fails to load -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body class="min-h-screen bg-gradient-to-br from-purple-900 via-pink-600 to-indigo-500 text-gray-900" style="font-family: 'Poppins', 'Noto Sans JP', sans-serif;">
+
+<header class="py-8">
+    <div class="max-w-6xl mx-auto px-6 flex items-center justify-between">
+        <a href="{{ url_for('home') }}" class="flex items-center space-x-3">
+            <div class="w-10 h-10 rounded-full bg-white/20 flex items-center justify-center text-2xl">🌸</div>
+            <div>
+                <h1 class="text-white text-xl font-semibold">AnimeFlowGuide</h1>
+                <p class="text-white/80 text-sm -mt-1">Curated watch orders for anime.</p>
+            </div>
+        </a>
+
+        <div class="hidden md:flex items-center space-x-4 flex-1 max-w-2xl mx-6">
+            <div class="relative w-full">
+                <input id="site-search" type="search" placeholder="Search anime, episodes, tags..." class="w-full rounded-full pl-4 pr-10 py-2 border backface-hidden bg-white/90 text-sm" />
+                <button id="search-clear" class="absolute right-1 top-1/2 -translate-y-1/2 text-sm text-gray-600 px-2">✖</button>
+            </div>
+        </div>
+
+        <nav class="hidden md:flex items-center space-x-4">
+            <a href="{{ url_for('home') }}" class="text-white/90 hover:text-white">Home</a>
+            <a href="#" class="text-white/90 hover:text-white">Top</a>
+            <a href="#" class="text-white/90 hover:text-white">Genres</a>
+        </nav>
+
+        <div class="md:hidden">
+            <button id="mobile-menu-btn" class="text-white">☰</button>
+        </div>
+    </div>
+
+    <div id="mobile-menu" class="md:hidden hidden bg-white/10 mt-2 py-3">
+        <div class="px-4">
+            <input id="site-search-mobile" type="search" placeholder="Search anime..." class="w-full rounded-full pl-4 pr-4 py-2 text-sm" />
+        </div>
+        <div class="mt-2 px-4 space-y-1">
+            <a href="{{ url_for('home') }}" class="block text-white/90">Home</a>
+            <a href="#" class="block text-white/90">Top</a>
+            <a href="#" class="block text-white/90">Genres</a>
+        </div>
+    </div>
+</header>
+
+<main class="max-w-6xl mx-auto px-6 -mt-2">
+    <div class="bg-white/95 rounded-xl shadow-2xl p-8 md:p-12 backdrop-blur-sm">
+        {% block content %}{% endblock %}
+    </div>
+</main>
+
+<!-- UI scripts -->
+<script src="{{ url_for('static', filename='js/ui.js') }}" defer></script>
+
+<footer class="max-w-6xl mx-auto px-4 mt-8 text-center text-sm text-white/80">
+    &copy; 2025 AnimeFlowGuide
+</footer>
+
+</body>
+</html>

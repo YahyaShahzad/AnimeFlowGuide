@@ -1,0 +1,782 @@
+{
+  "mapped_anime": 21,
+  "updated_episodes": 2097,
+  "created_episodes": 366,
+  "marked_filler": 0,
+  "unmatched_anime": [
+    {
+      "id": 2,
+      "name": "One Piece",
+      "slug": "one-piece",
+      "mal_id": 459
+    },
+    {
+      "id": 3,
+      "name": "Shingeki no Kyojin",
+      "slug": "shingeki-no-kyojin",
+      "mal_id": 16498
+    },
+    {
+      "id": 4,
+      "name": "Kimetsu no Yaiba",
+      "slug": "kimetsu-no-yaiba",
+      "mal_id": 38000
+    },
+    {
+      "id": 5,
+      "name": "DEATH NOTE",
+      "slug": "death-note",
+      "mal_id": 1535
+    },
+    {
+      "id": 6,
+      "name": "Jujutsu Kaisen",
+      "slug": "jujutsu-kaisen",
+      "mal_id": 40748
+    },
+    {
+      "id": 7,
+      "name": "Boku no Hero Academia",
+      "slug": "boku-no-hero-academia",
+      "mal_id": 33486
+    },
+    {
+      "id": 9,
+      "name": "One Punch Man",
+      "slug": "one-punch-man",
+      "mal_id": 30276
+    },
+    {
+      "id": 10,
+      "name": "Tokyo Ghoul",
+      "slug": "tokyo-ghoul",
+      "mal_id": 22319
+    },
+    {
+      "id": 11,
+      "name": "Shingeki no Kyojin Season 2",
+      "slug": "shingeki-no-kyojin-season-2",
+      "mal_id": 25777
+    },
+    {
+      "id": 13,
+      "name": "Sword Art Online",
+      "slug": "sword-art-online",
+      "mal_id": 11757
+    },
+    {
+      "id": 14,
+      "name": "Kimi no Na wa.",
+      "slug": "kimi-no-na-wa",
+      "mal_id": 42591
+    },
+    {
+      "id": 15,
+      "name": "Koe no Katachi",
+      "slug": "koe-no-katachi",
+      "mal_id": 37106
+    },
+    {
+      "id": 16,
+      "name": "Shingeki no Kyojin Season 3",
+      "slug": "shingeki-no-kyojin-season-3",
+      "mal_id": 35760
+    },
+    {
+      "id": 17,
+      "name": "Boku no Hero Academia 2",
+      "slug": "boku-no-hero-academia-2",
+      "mal_id": 33486
+    },
+    {
+      "id": 18,
+      "name": "Yakusoku no Neverland",
+      "slug": "yakusoku-no-neverland",
+      "mal_id": 37779
+    },
+    {
+      "id": 19,
+      "name": "Shingeki no Kyojin: The Final Season",
+      "slug": "shingeki-no-kyojin-the-final-season",
+      "mal_id": 40028
+    },
+    {
+      "id": 20,
+      "name": "Ansatsu Kyoushitsu",
+      "slug": "ansatsu-kyoushitsu",
+      "mal_id": 30654
+    },
+    {
+      "id": 21,
+      "name": "Mob Psycho 100",
+      "slug": "mob-psycho-100",
+      "mal_id": 37510
+    },
+    {
+      "id": 22,
+      "name": "Shigatsu wa Kimi no Uso",
+      "slug": "shigatsu-wa-kimi-no-uso",
+      "mal_id": 23273
+    },
+    {
+      "id": 23,
+      "name": "Boku dake ga Inai Machi",
+      "slug": "boku-dake-ga-inai-machi",
+      "mal_id": 31043
+    },
+    {
+      "id": 25,
+      "name": "Shingeki no Kyojin Season 3 Part 2",
+      "slug": "shingeki-no-kyojin-season-3-part-2",
+      "mal_id": 35760
+    },
+    {
+      "id": 27,
+      "name": "Re:Zero kara Hajimeru Isekai Seikatsu",
+      "slug": "rezero-kara-hajimeru-isekai-seikatsu",
+      "mal_id": 31240
+    },
+    {
+      "id": 29,
+      "name": "Haikyuu!!",
+      "slug": "haikyuu",
+      "mal_id": 20583
+    },
+    {
+      "id": 30,
+      "name": "Chainsaw Man",
+      "slug": "chainsaw-man",
+      "mal_id": 44511
+    },
+    {
+      "id": 31,
+      "name": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+      "slug": "seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai",
+      "mal_id": 37450
+    },
+    {
+      "id": 33,
+      "name": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+      "slug": "kaguya-sama-wa-kokurasetai-tensaitachi-no-renai-zunousen",
+      "mal_id": 43608
+    },
+    {
+      "id": 34,
+      "name": "Noragami",
+      "slug": "noragami",
+      "mal_id": 30503
+    },
+    {
+      "id": 35,
+      "name": "No Game No Life",
+      "slug": "no-game-no-life",
+      "mal_id": 19815
+    },
+    {
+      "id": 36,
+      "name": "SPY×FAMILY",
+      "slug": "spyfamily",
+      "mal_id": 50602
+    },
+    {
+      "id": 37,
+      "name": "Dr. STONE",
+      "slug": "dr-stone",
+      "mal_id": 38691
+    },
+    {
+      "id": 38,
+      "name": "Violet Evergarden",
+      "slug": "violet-evergarden",
+      "mal_id": 33352
+    },
+    {
+      "id": 39,
+      "name": "Toradora!",
+      "slug": "toradora",
+      "mal_id": 4224
+    },
+    {
+      "id": 40,
+      "name": "Akame ga Kill!",
+      "slug": "akame-ga-kill",
+      "mal_id": 22199
+    },
+    {
+      "id": 42,
+      "name": "Nanatsu no Taizai",
+      "slug": "nanatsu-no-taizai",
+      "mal_id": 23755
+    },
+    {
+      "id": 43,
+      "name": "VINLAND SAGA",
+      "slug": "vinland-saga",
+      "mal_id": 37521
+    },
+    {
+      "id": 44,
+      "name": "Kono Subarashii Sekai ni Shukufuku wo!",
+      "slug": "kono-subarashii-sekai-ni-shukufuku-wo",
+      "mal_id": 49458
+    },
+    {
+      "id": 45,
+      "name": "Horimiya",
+      "slug": "horimiya",
+      "mal_id": 42897
+    },
+    {
+      "id": 46,
+      "name": "Kimetsu no Yaiba: Mugen Ressha-hen",
+      "slug": "kimetsu-no-yaiba-mugen-ressha-hen",
+      "mal_id": 38000
+    },
+    {
+      "id": 47,
+      "name": "Kiseijuu: Sei no Kakuritsu",
+      "slug": "kiseijuu-sei-no-kakuritsu",
+      "mal_id": 22535
+    },
+    {
+      "id": 48,
+      "name": "Darling in the Franxx",
+      "slug": "darling-in-the-franxx",
+      "mal_id": 35849
+    },
+    {
+      "id": 50,
+      "name": "Code Geass: Hangyaku no Lelouch",
+      "slug": "code-geass-hangyaku-no-lelouch",
+      "mal_id": 1575
+    },
+    {
+      "id": 51,
+      "name": "Shin Seiki Evangelion",
+      "slug": "shin-seiki-evangelion",
+      "mal_id": 30
+    },
+    {
+      "id": 52,
+      "name": "Sen to Chihiro no Kamikakushi",
+      "slug": "sen-to-chihiro-no-kamikakushi",
+      "mal_id": 7103
+    },
+    {
+      "id": 53,
+      "name": "Death Parade",
+      "slug": "death-parade",
+      "mal_id": 28223
+    },
+    {
+      "id": 54,
+      "name": "JoJo no Kimyou na Bouken (TV)",
+      "slug": "jojo-no-kimyou-na-bouken-tv",
+      "mal_id": 31933
+    },
+    {
+      "id": 56,
+      "name": "Enen no Shouboutai",
+      "slug": "enen-no-shouboutai",
+      "mal_id": 45999
+    },
+    {
+      "id": 57,
+      "name": "One Punch Man 2",
+      "slug": "one-punch-man-2",
+      "mal_id": 34134
+    },
+    {
+      "id": 59,
+      "name": "Kimetsu no Yaiba: Yuukaku-hen",
+      "slug": "kimetsu-no-yaiba-yuukaku-hen",
+      "mal_id": 38000
+    },
+    {
+      "id": 60,
+      "name": "Kakegurui",
+      "slug": "kakegurui",
+      "mal_id": 34933
+    },
+    {
+      "id": 61,
+      "name": "Sword Art Online II",
+      "slug": "sword-art-online-ii",
+      "mal_id": 21881
+    },
+    {
+      "id": 62,
+      "name": "Tate no Yuusha no Nariagari",
+      "slug": "tate-no-yuusha-no-nariagari",
+      "mal_id": 35790
+    },
+    {
+      "id": 63,
+      "name": "Angel Beats!",
+      "slug": "angel-beats",
+      "mal_id": 6547
+    },
+    {
+      "id": 64,
+      "name": "Mob Psycho 100 II",
+      "slug": "mob-psycho-100-ii",
+      "mal_id": 37510
+    },
+    {
+      "id": 65,
+      "name": "Tokyo Revengers",
+      "slug": "tokyo-revengers",
+      "mal_id": 42249
+    },
+    {
+      "id": 67,
+      "name": "Jujutsu Kaisen 2nd Season",
+      "slug": "jujutsu-kaisen-2nd-season",
+      "mal_id": 40748
+    },
+    {
+      "id": 68,
+      "name": "Mirai Nikki",
+      "slug": "mirai-nikki",
+      "mal_id": 10620
+    },
+    {
+      "id": 69,
+      "name": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+      "slug": "kaguya-sama-wa-kokurasetai-tensaitachi-no-renai-zunousen-112641",
+      "mal_id": 43608
+    },
+    {
+      "id": 70,
+      "name": "Charlotte",
+      "slug": "charlotte",
+      "mal_id": 3196
+    },
+    {
+      "id": 71,
+      "name": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+      "slug": "mushoku-tensei-isekai-ittara-honki-dasu",
+      "mal_id": 45576
+    },
+    {
+      "id": 72,
+      "name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+      "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e",
+      "mal_id": 51096
+    },
+    {
+      "id": 74,
+      "name": "Kill la Kill",
+      "slug": "kill-la-kill",
+      "mal_id": 18679
+    },
+    {
+      "id": 75,
+      "name": "Shingeki no Kyojin: The Final Season Part 2",
+      "slug": "shingeki-no-kyojin-the-final-season-part-2",
+      "mal_id": 40028
+    },
+    {
+      "id": 76,
+      "name": "Shokugeki no Souma",
+      "slug": "shokugeki-no-souma",
+      "mal_id": 28171
+    },
+    {
+      "id": 77,
+      "name": "Tokyo Ghoul √A",
+      "slug": "tokyo-ghoul-a",
+      "mal_id": 27899
+    },
+    {
+      "id": 78,
+      "name": "Boku no Hero Academia 5",
+      "slug": "boku-no-hero-academia-5",
+      "mal_id": 41587
+    },
+    {
+      "id": 79,
+      "name": "Haikyuu!! 2nd Season",
+      "slug": "haikyuu-2nd-season",
+      "mal_id": 28891
+    },
+    {
+      "id": 80,
+      "name": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+      "slug": "ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai",
+      "mal_id": 9989
+    },
+    {
+      "id": 81,
+      "name": "Sousou no Frieren",
+      "slug": "sousou-no-frieren",
+      "mal_id": 52991
+    },
+    {
+      "id": 82,
+      "name": "Made in Abyss",
+      "slug": "made-in-abyss",
+      "mal_id": 34599
+    },
+    {
+      "id": 83,
+      "name": "Hataraku Maou-sama!",
+      "slug": "hataraku-maou-sama",
+      "mal_id": 52970
+    },
+    {
+      "id": 84,
+      "name": "Jujutsu Kaisen 0",
+      "slug": "jujutsu-kaisen-0",
+      "mal_id": 40748
+    },
+    {
+      "id": 85,
+      "name": "Overlord",
+      "slug": "overlord",
+      "mal_id": 29803
+    },
+    {
+      "id": 86,
+      "name": "Ore dake Level Up na Ken",
+      "slug": "ore-dake-level-up-na-ken",
+      "mal_id": 58567
+    },
+    {
+      "id": 87,
+      "name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+      "slug": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka",
+      "mal_id": 28121
+    },
+    {
+      "id": 88,
+      "name": "Sono Bisque Doll wa Koi wo Suru",
+      "slug": "sono-bisque-doll-wa-koi-wo-suru",
+      "mal_id": 23133
+    },
+    {
+      "id": 92,
+      "name": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+      "slug": "kono-subarashii-sekai-ni-shukufuku-wo-2",
+      "mal_id": 49458
+    },
+    {
+      "id": 93,
+      "name": "Yahari Ore no Seishun Love Come wa Machigatteiru.",
+      "slug": "yahari-ore-no-seishun-love-come-wa-machigatteiru",
+      "mal_id": 23847
+    },
+    {
+      "id": 94,
+      "name": "Dororo",
+      "slug": "dororo",
+      "mal_id": 5760
+    },
+    {
+      "id": 96,
+      "name": "Ansatsu Kyoushitsu 2nd Season",
+      "slug": "ansatsu-kyoushitsu-2nd-season",
+      "mal_id": 30654
+    },
+    {
+      "id": 97,
+      "name": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou",
+      "slug": "haikyuu-karasuno-koukou-vs-shiratorizawa-gakuen-koukou",
+      "mal_id": 20583
+    },
+    {
+      "id": 98,
+      "name": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+      "slug": "rezero-kara-hajimeru-isekai-seikatsu-2nd-season",
+      "mal_id": 31240
+    },
+    {
+      "id": 99,
+      "name": "PSYCHO-PASS",
+      "slug": "psycho-pass",
+      "mal_id": 13601
+    },
+    {
+      "id": 100,
+      "name": "Code Geass: Hangyaku no Lelouch R2",
+      "slug": "code-geass-hangyaku-no-lelouch-r2",
+      "mal_id": 2904
+    },
+    {
+      "id": 101,
+      "name": "Kimi no Suizou wo Tabetai",
+      "slug": "kimi-no-suizou-wo-tabetai",
+      "mal_id": 23273
+    },
+    {
+      "id": 102,
+      "name": "Howl no Ugoku Shiro",
+      "slug": "howl-no-ugoku-shiro",
+      "mal_id": 55877
+    },
+    {
+      "id": 103,
+      "name": "Hyouka",
+      "slug": "hyouka",
+      "mal_id": 12189
+    },
+    {
+      "id": 104,
+      "name": "DEVILMAN crybaby",
+      "slug": "devilman-crybaby",
+      "mal_id": 2252
+    },
+    {
+      "id": 105,
+      "name": "Fate/Zero",
+      "slug": "fatezero",
+      "mal_id": 10087
+    },
+    {
+      "id": 106,
+      "name": "Tenki no Ko",
+      "slug": "tenki-no-ko",
+      "mal_id": 4197
+    },
+    {
+      "id": 107,
+      "name": "Saiki Kusuo no Ψ-nan",
+      "slug": "saiki-kusuo-no-ψ-nan",
+      "mal_id": 33255
+    },
+    {
+      "id": 108,
+      "name": "Chuunibyou demo Koi ga Shitai!",
+      "slug": "chuunibyou-demo-koi-ga-shitai",
+      "mal_id": 14741
+    },
+    {
+      "id": 109,
+      "name": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+      "slug": "kimetsu-no-yaiba-katanakaji-no-sato-hen",
+      "mal_id": 38000
+    },
+    {
+      "id": 110,
+      "name": "Kimetsu no Yaiba: Mugen Ressha-hen (TV)",
+      "slug": "kimetsu-no-yaiba-mugen-ressha-hen-tv",
+      "mal_id": 38000
+    },
+    {
+      "id": 111,
+      "name": "Bakemonogatari",
+      "slug": "bakemonogatari",
+      "mal_id": 5081
+    },
+    {
+      "id": 112,
+      "name": "JoJo no Kimyou na Bouken: Stardust Crusaders",
+      "slug": "jojo-no-kimyou-na-bouken-stardust-crusaders",
+      "mal_id": 31933
+    },
+    {
+      "id": 113,
+      "name": "Cyberpunk: Edgerunners",
+      "slug": "cyberpunk-edgerunners",
+      "mal_id": 54853
+    },
+    {
+      "id": 114,
+      "name": "Kami no Tou: Tower of God",
+      "slug": "kami-no-tou-tower-of-god",
+      "mal_id": 9981
+    },
+    {
+      "id": 116,
+      "name": "Dandadan",
+      "slug": "dandadan",
+      "mal_id": 30309
+    },
+    {
+      "id": 117,
+      "name": "Yakusoku no Neverland 2",
+      "slug": "yakusoku-no-neverland-2",
+      "mal_id": 37779
+    },
+    {
+      "id": 118,
+      "name": "Dr. STONE: STONE WARS",
+      "slug": "dr-stone-stone-wars",
+      "mal_id": 61322
+    },
+    {
+      "id": 119,
+      "name": "Wotaku ni Koi wa Muzukashii",
+      "slug": "wotaku-ni-koi-wa-muzukashii",
+      "mal_id": 35968
+    },
+    {
+      "id": 120,
+      "name": "Owari no Seraph",
+      "slug": "owari-no-seraph",
+      "mal_id": 26243
+    },
+    {
+      "id": 121,
+      "name": "MONSTER",
+      "slug": "monster",
+      "mal_id": 19
+    },
+    {
+      "id": 122,
+      "name": "Mahou Shoujo Madoka☆Magica",
+      "slug": "mahou-shoujo-madokamagica",
+      "mal_id": 38256
+    },
+    {
+      "id": 123,
+      "name": "Noragami ARAGOTO",
+      "slug": "noragami-aragoto",
+      "mal_id": 30503
+    },
+    {
+      "id": 124,
+      "name": "SPY×FAMILY Part 2",
+      "slug": "spyfamily-part-2",
+      "mal_id": 50602
+    },
+    {
+      "id": 125,
+      "name": "Jigokuraku",
+      "slug": "jigokuraku",
+      "mal_id": 46569
+    },
+    {
+      "id": 126,
+      "name": "BANANA FISH",
+      "slug": "banana-fish",
+      "mal_id": 36649
+    },
+    {
+      "id": 127,
+      "name": "Fumetsu no Anata e",
+      "slug": "fumetsu-no-anata-e",
+      "mal_id": 38000
+    },
+    {
+      "id": 128,
+      "name": "Komi-san wa, Komyushou desu.",
+      "slug": "komi-san-wa-komyushou-desu",
+      "mal_id": 48926
+    },
+    {
+      "id": 129,
+      "name": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
+      "slug": "jojo-no-kimyou-na-bouken-diamond-wa-kudakenai",
+      "mal_id": 31933
+    },
+    {
+      "id": 130,
+      "name": "Kanojo, Okarishimasu",
+      "slug": "kanojo-okarishimasu",
+      "mal_id": 54075
+    },
+    {
+      "id": 131,
+      "name": "Fruits Basket: 1st Season",
+      "slug": "fruits-basket-1st-season",
+      "mal_id": 120
+    },
+    {
+      "id": 132,
+      "name": "High School DxD",
+      "slug": "high-school-dxd",
+      "mal_id": 11617
+    },
+    {
+      "id": 133,
+      "name": "Tokyo Ghoul:re",
+      "slug": "tokyo-ghoulre",
+      "mal_id": 36511
+    },
+    {
+      "id": 135,
+      "name": "[Oshi no Ko]",
+      "slug": "oshi-no-ko",
+      "mal_id": 55791
+    },
+    {
+      "id": 136,
+      "name": "Go-toubun no Hanayome",
+      "slug": "go-toubun-no-hanayome",
+      "mal_id": 38101
+    },
+    {
+      "id": 137,
+      "name": "Blue Lock",
+      "slug": "blue-lock",
+      "mal_id": 49596
+    },
+    {
+      "id": 138,
+      "name": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+      "slug": "mushoku-tensei-isekai-ittara-honki-dasu-part-2",
+      "mal_id": 45576
+    },
+    {
+      "id": 139,
+      "name": "THE GOD OF HIGH SCHOOL",
+      "slug": "the-god-of-high-school",
+      "mal_id": 45196
+    },
+    {
+      "id": 141,
+      "name": "Mononoke-hime",
+      "slug": "mononoke-hime",
+      "mal_id": 673
+    },
+    {
+      "id": 142,
+      "name": "86: Eighty Six",
+      "slug": "86-eighty-six",
+      "mal_id": 48569
+    },
+    {
+      "id": 143,
+      "name": "Durarara!!",
+      "slug": "durarara",
+      "mal_id": 6746
+    },
+    {
+      "id": 144,
+      "name": "Haikyuu!! TO THE TOP",
+      "slug": "haikyuu-to-the-top",
+      "mal_id": 38883
+    },
+    {
+      "id": 145,
+      "name": "CLANNAD",
+      "slug": "clannad",
+      "mal_id": 4181
+    },
+    {
+      "id": 146,
+      "name": "JoJo no Kimyou na Bouken: Ougon no Kaze",
+      "slug": "jojo-no-kimyou-na-bouken-ougon-no-kaze",
+      "mal_id": 37991
+    },
+    {
+      "id": 147,
+      "name": "Enen no Shouboutai: Ni no Shou",
+      "slug": "enen-no-shouboutai-ni-no-shou",
+      "mal_id": 45999
+    },
+    {
+      "id": 149,
+      "name": "Wonder Egg Priority",
+      "slug": "wonder-egg-priority",
+      "mal_id": 43299
+    },
+    {
+      "id": 150,
+      "name": "Nanatsu no Taizai: Imashime no Fukkatsu",
+      "slug": "nanatsu-no-taizai-imashime-no-fukkatsu",
+      "mal_id": 34577
+    }
+  ]
+}

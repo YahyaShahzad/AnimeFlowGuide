@@ -1,0 +1,1991 @@
+{
+  "anime": [
+    {
+      "name": "Shingeki no Kyojin",
+      "slug": "shingeki-no-kyojin",
+      "description": "Several hundred years ago, humans were nearly exterminated by titans. Titans are typically several stories tall, seem to have no intelligence, devour human beings and, worst of all, seem to do it for the pleasure rather than as a food source. A small percentage of humanity survived by walling themselves in a city protected by extremely high walls, even taller than the biggest of titans.\r\nFlash for...",
+      "image": "images/shingeki-no-kyojin.jpg",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "episodes_count": 25
+    },
+    {
+      "name": "Kimetsu no Yaiba",
+      "slug": "kimetsu-no-yaiba",
+      "description": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human, and kill the demon ...",
+      "image": "images/kimetsu-no-yaiba.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "episodes_count": 26
+    },
+    {
+      "name": "DEATH NOTE",
+      "slug": "death-note",
+      "description": "Light Yagami is a genius high school student who is about to learn about life through a book of death. When a bored shinigami, a God of Death, named Ryuk drops a black notepad called a Death Note, Light receives power over life and death with the stroke of a pen. Determined to use this dark gift for the best, Light sets out to rid the world of evil… namely, the people he believes to be evil. Shoul...",
+      "image": "images/death-note.jpg",
+      "genres": [
+        "Mystery",
+        "Psychological",
+        "Supernatural",
+        "Thriller"
+      ],
+      "episodes_count": 37
+    },
+    {
+      "name": "Jujutsu Kaisen",
+      "slug": "jujutsu-kaisen",
+      "description": "A boy fights... for \"the right death.\"\n\nHardship, regret, shame: the negative feelings that humans feel become Curses that lurk in our everyday lives. The Curses run rampant throughout the world, capable of leading people to terrible misfortune and even death. What's more, the Curses can only be exorcised by another Curse.\n\nItadori Yuji is a boy with tremendous physical strength, though he lives a...",
+      "image": "images/jujutsu-kaisen.jpg",
+      "genres": [
+        "Action",
+        "Drama",
+        "Supernatural"
+      ],
+      "episodes_count": 24
+    },
+    {
+      "name": "Boku no Hero Academia",
+      "slug": "boku-no-hero-academia",
+      "description": "What would the world be like if 80 percent of the population manifested extraordinary superpowers called “Quirks” at age four? Heroes and villains would be battling it out everywhere! Becoming a hero would mean learning to use your power, but where would you go to study? U.A. High's Hero Program of course! But what would you do if you were one of the 20 percent who were born Quirkless?\n\nMiddle sch...",
+      "image": "images/boku-no-hero-academia.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "episodes_count": 13
+    },
+    {
+      "name": "HUNTER×HUNTER (2011)",
+      "slug": "hunterhunter-2011",
+      "description": "A new adaption of the manga of the same name by Togashi Yoshihiro.\nA Hunter is one who travels the world doing all sorts of dangerous tasks. From capturing criminals to searching deep within uncharted lands for any lost treasures. Gon is a young boy whose father disappeared long ago, being a Hunter. He believes if he could also follow his father's path, he could one day reunite with him.\nAfter bec...",
+      "image": "images/hunterhunter-2011.png",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "episodes_count": 148
+    },
+    {
+      "name": "One Punch Man",
+      "slug": "one-punch-man",
+      "description": "Saitama has a rather peculiar hobby, being a superhero, but despite his heroic deeds and superhuman abilities, a shadow looms over his life. He's become much too powerful, to the point that every opponent ends up defeated with a single punch.\n\nThe lack of challenge has driven him into a state of apathy, as he watches his life pass by having lost all enthusiasm, at least until he's unwillingly thru...",
+      "image": "images/one-punch-man.jpg",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Sci-Fi",
+        "Supernatural"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "Tokyo Ghoul",
+      "slug": "tokyo-ghoul",
+      "description": "The suspense horror/dark fantasy story is set in Tokyo, which is haunted by mysterious \"ghouls\" who are devouring humans. People are gripped by the fear of these ghouls whose identities are masked in mystery. An ordinary college student named Kaneki encounters Rize, a girl who is an avid reader like him, at the café he frequents. Little does he realize that his fate will change overnight.\n\n(Source...",
+      "image": "images/tokyo-ghoul.jpg",
+      "genres": [
+        "Action",
+        "Drama",
+        "Horror",
+        "Mystery",
+        "Psychological",
+        "Supernatural"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "Shingeki no Kyojin Season 2",
+      "slug": "shingeki-no-kyojin-season-2",
+      "description": "Eren Jaeger swore to wipe out every last Titan, but in a battle for his life he wound up becoming the thing he hates most. With his new powers, he fights for humanity's freedom facing the monsters that threaten his home. After a bittersweet victory against the Female Titan, Eren finds no time to rest—a horde of Titans is approaching Wall Rose and the battle for humanity continues!\n\n(Source: Funima...",
+      "image": "images/shingeki-no-kyojin-season-2.jpg",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "ONE PIECE",
+      "slug": "one-piece",
+      "description": "Gold Roger was known as the Pirate King, the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the location of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of findi...",
+      "image": "images/one-piece.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "episodes_count": null
+    },
+    {
+      "name": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
+      "slug": "hagane-no-renkinjutsushi-fullmetal-alchemist",
+      "description": "\"In order for something to be obtained, something of equal value must be lost.\"\n\nAlchemy is bound by this Law of Equivalent Exchange—something the young brothers Edward and Alphonse Elric only realize after attempting human transmutation: the one forbidden act of alchemy. They pay a terrible price for their transgression—Edward loses his left leg, Alphonse his physical body. It is only by the desp...",
+      "image": "images/hagane-no-renkinjutsushi-fullmetal-alchemist.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "episodes_count": 64
+    },
+    {
+      "name": "Sword Art Online",
+      "slug": "sword-art-online",
+      "description": "In the near future, a Virtual Reality Massive Multiplayer Online Role-Playing Game (VRMMORPG) called Sword Art Online has been released where players control their avatars with their bodies using a piece of technology called Nerve Gear. One day, players discover they cannot log out, as the game creator is holding them captive unless they reach the 100th floor of the game's tower and defeat the fin...",
+      "image": "images/sword-art-online.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Romance"
+      ],
+      "episodes_count": 25
+    },
+    {
+      "name": "NARUTO",
+      "slug": "naruto",
+      "description": "Naruto Uzumaki, a hyperactive and knuckle-headed ninja, lives in Konohagakure, the Hidden Leaf village. Moments prior to his birth, a huge demon known as the Kyuubi, the Nine-tailed Fox, attacked Konohagakure and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village, the 4th Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto. \nSh...",
+      "image": "images/naruto.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "episodes_count": 220
+    },
+    {
+      "name": "Kimi no Na wa.",
+      "slug": "kimi-no-na-wa",
+      "description": "Mitsuha Miyamizu, a high school girl, yearns to live the life of a boy in the bustling city of Tokyo—a dream that stands in stark contrast to her present life in the countryside. Meanwhile in the city, Taki Tachibana lives a busy life as a high school student while juggling his part-time job and hopes for a future in architecture.\n\nOne day, Mitsuha awakens in a room that is not her own and suddenl...",
+      "image": "images/kimi-no-na-wa.png",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Supernatural"
+      ],
+      "episodes_count": 1
+    },
+    {
+      "name": "Koe no Katachi",
+      "slug": "koe-no-katachi",
+      "description": "After transferring into a new school, a deaf girl, Shouko Nishimiya, is bullied by the popular Shouya Ishida. As Shouya continues to bully Shouko, the class turns its back on him. Shouko transfers and Shouya grows up as an outcast. Alone and depressed, the regretful Shouya finds Shouko to make amends.\n\n(Source: Eleven Arts)",
+      "image": "images/koe-no-katachi.jpg",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "episodes_count": 1
+    },
+    {
+      "name": "Shingeki no Kyojin Season 3",
+      "slug": "shingeki-no-kyojin-season-3",
+      "description": "Eren and his companions in the 104th are assigned to the newly-formed Levi Squad, whose assignment is to keep Eren and Historia safe given Eren's newly-discovered power and Historia's knowledge and pedigree. Levi and Erwin have good reason to be concerned, because the priest of the Church that Hanji had hidden away was found tortured to death, making it clear that the Military Police are involved ...",
+      "image": "images/shingeki-no-kyojin-season-3.jpg",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "Boku no Hero Academia 2",
+      "slug": "boku-no-hero-academia-2",
+      "description": "Taking off right after the last episode of the first season. The school is temporarily closed due to security. When U.A. restarts, it is announced that the highly anticipated School Sports Festival will soon be taking place. All classes: Hero, Support, General and Business will be participating. Tournaments all round will decide who is the top Hero in training.(Source: Anime News Network)",
+      "image": "images/boku-no-hero-academia-2.png",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "episodes_count": 25
+    },
+    {
+      "name": "Yakusoku no Neverland",
+      "slug": "yakusoku-no-neverland",
+      "description": "Emma, Norman and Ray are the brightest kids at the Grace Field House orphanage. And under the care of the woman they refer to as “Mom,” all the kids have enjoyed a comfortable life. Good food, clean clothes and the perfect environment to learn—what more could an orphan ask for? One day, though, Emma and Norman uncover the dark truth of the outside world they are forbidden from seeing.\n\n(Source: Vi...",
+      "image": "images/yakusoku-no-neverland.jpg",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Psychological",
+        "Thriller"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "Shingeki no Kyojin: The Final Season",
+      "slug": "shingeki-no-kyojin-the-final-season",
+      "description": "It’s been four years since the Scout Regiment reached the shoreline, and the world looks different now. Things are heating up as the fate of the Scout Regiment—and the people of Paradis—are determined at last. However, Eren is missing. Will he reappear before age-old tensions between Marleyans and Eldians result in the war of all wars?\n\n(Source: Crunchyroll)",
+      "image": "images/shingeki-no-kyojin-the-final-season.jpg",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "episodes_count": 16
+    },
+    {
+      "name": "Ansatsu Kyoushitsu",
+      "slug": "ansatsu-kyoushitsu",
+      "description": "The students of class 3-E have a mission: kill their teacher before graduation. He has already destroyed the moon, and has promised to destroy the Earth if he can not be killed within a year. But how can this class of misfits kill a tentacled monster, capable of reaching Mach 20 speed, who may be the best teacher any of them have ever had?",
+      "image": "images/ansatsu-kyoushitsu.jpg",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Supernatural"
+      ],
+      "episodes_count": 22
+    },
+    {
+      "name": "Mob Psycho 100",
+      "slug": "mob-psycho-100",
+      "description": "The story revolves around \"Mob,\" a boy who will explode if his emotional capacity reaches 100%. This boy with psychic powers earned his nickname \"Mob\" because he does not stand out among other people. He keeps his psychic powers bottled up so he can live normally, but if his emotional level reaches 100, something will overwhelm his entire body.\n\n(Source: Anime News Network)",
+      "image": "images/mob-psycho-100.jpg",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Psychological",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "Shigatsu wa Kimi no Uso",
+      "slug": "shigatsu-wa-kimi-no-uso",
+      "description": "Piano prodigy Arima Kousei dominated the competition and all child musicians knew his name. But after his mother, who was also his instructor, passed away, he had a mental breakdown while performing at a recital. This resulted in him no longer being able to hear the sound of his piano playing. Two years later, Kousei hasn’t touched the piano and views the world without any flair or color. He was c...",
+      "image": "images/shigatsu-wa-kimi-no-uso.png",
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance",
+        "Slice of Life"
+      ],
+      "episodes_count": 22
+    },
+    {
+      "name": "Boku dake ga Inai Machi",
+      "slug": "boku-dake-ga-inai-machi",
+      "description": "Satoru Fujinuma is a 29 year old manga artist struggling to make a name for himself following his debut. But, that was not the only thing in his life that Satoru was feeling frustrated about… He has a unique supernatural ability of being forced to prevent deaths and catastrophes by being sent back in time before the incident occurred, repeating time until the accident is prevented. One day, he get...",
+      "image": "images/boku-dake-ga-inai-machi.jpg",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Psychological",
+        "Supernatural",
+        "Thriller"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "Boku no Hero Academia 3",
+      "slug": "boku-no-hero-academia-3",
+      "description": "Summer is here, and the heroes of Class 1-A and 1-B are in for the toughest training camp of their lives! A group of seasoned pros pushes everyone's Quirks to new heights as the students face one overwhelming challenge after another. Braving the elements in this secret location becomes the least of their worries when routine training turns into a critical struggle for survival.(Source: Crunchyroll...",
+      "image": "images/boku-no-hero-academia-3.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "episodes_count": 25
+    },
+    {
+      "name": "Shingeki no Kyojin Season 3 Part 2",
+      "slug": "shingeki-no-kyojin-season-3-part-2",
+      "description": "The battle to retake Wall Maria begins now! With Eren’s new hardening ability, the Scouts are confident they can seal the wall and take back Shiganshina District. If they succeed, Eren can finally unlock the secrets of the basement—and the world. But danger lies in wait as Reiner, Bertholdt, and the Beast Titan have plans of their own. Could this be humanity’s final battle for survival?\n\n(Source: ...",
+      "image": "images/shingeki-no-kyojin-season-3-part-2.jpg",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "episodes_count": 10
+    },
+    {
+      "name": "NARUTO: Shippuuden",
+      "slug": "naruto-shippuuden",
+      "description": "Naruto: Shippuuden is the continuation of the original animated TV series Naruto. The story revolves around an older and slightly more matured Uzumaki Naruto and his quest to save his friend Uchiha Sasuke from the grips of the snake-like Shinobi, Orochimaru. After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work, though it will not be...",
+      "image": "images/naruto-shippuuden.png",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "episodes_count": 500
+    },
+    {
+      "name": "Re:Zero kara Hajimeru Isekai Seikatsu",
+      "slug": "rezero-kara-hajimeru-isekai-seikatsu",
+      "description": "In the story, Subaru Natsuki is an ordinary high school student who is lost in an alternate world, where he is rescued by a beautiful, silver-haired girl. He stays near her to return the favor, but the destiny she is burdened with is more than Subaru can imagine. Enemies attack one by one, and both of them are killed. He then finds out he has the power to rewind death, back to the time he first ca...",
+      "image": "images/rezero-kara-hajimeru-isekai-seikatsu.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Psychological",
+        "Romance",
+        "Thriller"
+      ],
+      "episodes_count": 25
+    },
+    {
+      "name": "Steins;Gate",
+      "slug": "steinsgate",
+      "description": "Self-proclaimed mad scientist Okabe Rintarou lives in a small room in Akihabara, where he invents \"future gadgets\" with fellow lab members Shiina Mayuri, his air-headed childhood friend, and Hashida Itaru, an otaku hacker. The three pass the time by tinkering with their latest creation, a \"Phone Microwave\" that can be controlled through text messages. \n\nThe lab members soon face a string of myster...",
+      "image": "images/steinsgate.jpg",
+      "genres": [
+        "Drama",
+        "Psychological",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "episodes_count": 24
+    },
+    {
+      "name": "Haikyuu!!",
+      "slug": "haikyuu",
+      "description": "Inspired after watching a volleyball ace nicknamed \"Little Giant\" in action, small-statured Shouyou Hinata revives the volleyball club at his middle school. The newly-formed team even makes it to a tournament; however, their first match turns out to be their last when they are brutally squashed by the \"King of the Court,\" Tobio Kageyama. Hinata vows to surpass Kageyama, and so after graduating fro...",
+      "image": "images/haikyuu.png",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Sports"
+      ],
+      "episodes_count": 25
+    },
+    {
+      "name": "Chainsaw Man",
+      "slug": "chainsaw-man",
+      "description": "Denji is a teenage boy living with a Chainsaw Devil named Pochita. Due to the debt his father left behind, he has been living a rock-bottom life while repaying his debt by harvesting devil corpses with Pochita.\nOne day, Denji is betrayed and killed. As his consciousness fades, he makes a contract with Pochita and gets revived as \"Chainsaw Man\" — a man with a devil's heart.\n\n(Source: Crunchyroll)",
+      "image": "images/chainsaw-man.png",
+      "genres": [
+        "Action",
+        "Drama",
+        "Horror",
+        "Supernatural"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+      "slug": "seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai",
+      "description": "There's a rumor about a mysterious phenomenon called \"puberty syndrome.\" For example, Sakuta Azusagawa is a high school student who suddenly sees a bunny girl appear in front of him. The girl is actually a girl named Mai Sakurajima, who is Sakuta's upperclassman who is also a famous actress who has gone on hiatus from the entertainment industry. For some reason, the people around Mai cannot see he...",
+      "image": "images/seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai.jpg",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Mystery",
+        "Psychological",
+        "Romance",
+        "Supernatural"
+      ],
+      "episodes_count": 13
+    },
+    {
+      "name": "Black Clover",
+      "slug": "black-clover",
+      "description": "In a world where magic is everything, Asta and Yuno are both found abandoned at a church on the same day. While Yuno is gifted with exceptional magical powers, Asta is the only one in this world without any. At the age of fifteen, both receive grimoires, magic books that amplify their holder’s magic. Asta’s is a rare Grimoire of Anti-Magic that negates and repels his opponent’s spells. Being oppos...",
+      "image": "images/black-clover.png",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "episodes_count": 170
+    },
+    {
+      "name": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+      "slug": "kaguya-sama-wa-kokurasetai-tensaitachi-no-renai-zunousen",
+      "description": "Known for being both brilliant and powerful, Miyuki Shirogane and Kaguya Shinomiya lead the illustrious Shuchiin Academy as near equals. And everyone thinks they’d make a great couple. Pride and arrogance are in ample supply, so the only logical move is to trick the other into instigating a date! Who will come out on top in this psychological war where the first move is the only one that matters?\n...",
+      "image": "images/kaguya-sama-wa-kokurasetai-tensaitachi-no-renai-zunousen.jpg",
+      "genres": [
+        "Comedy",
+        "Psychological",
+        "Romance",
+        "Slice of Life"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "Noragami",
+      "slug": "noragami",
+      "description": "Minor god Yato is down on his luck. Fed up with his slacker lifestyle, his partner abruptly quits. He has no money, no worshippers, and no shrine to call home. But just when things are starting to seem hopeless, a bus accident forces him to cross paths with Hiyori Iki, a sweet and perky high school girl. After the accident, Hiyori's soul has a bad habit of slipping out of her body, and after enlis...",
+      "image": "images/noragami.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Supernatural"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "No Game No Life",
+      "slug": "no-game-no-life",
+      "description": "Bored with life and considering the real world to be just a “crappy game,” savvy sibling shut-ins Sora and Shiro have withdrawn into their own fantasy world filled with video games. \n\nHowever, one day they find themselves summoned to another world by a boy who calls himself “God,” their abilities are about to be put to the ultimate test! Now not only their fates — but the fate of all of humanity —...",
+      "image": "images/no-game-no-life.jpg",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Ecchi",
+        "Fantasy"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "SPY×FAMILY",
+      "slug": "spyfamily",
+      "description": "Everyone has a part of themselves they cannot show to anyone else.\n\nAt a time when all nations of the world were involved in a fierce war of information happening behind closed doors, Ostania and Westalis had been in a state of cold war against one another for decades. The Westalis Intelligence Services' Eastern-Focused Division (WISE) sends their most talented spy, \"Twilight,\" on a top-secret mis...",
+      "image": "images/spyfamily.jpg",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "Dr. STONE",
+      "slug": "dr-stone",
+      "description": "After five years of harboring unspoken feelings, high-schooler Taiju Ooki is finally ready to confess his love to Yuzuriha Ogawa. Just when Taiju begins his confession however, a blinding green light strikes the Earth and petrifies mankind around the world— turning every single human into stone.\n\nSeveral millennia later, Taiju awakens to find the modern world completely nonexistent, as nature has ...",
+      "image": "images/dr-stone.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "episodes_count": 24
+    },
+    {
+      "name": "Violet Evergarden",
+      "slug": "violet-evergarden",
+      "description": "A certain point in time, in the continent of Telesis. The great war which divided the continent into North and South has ended after four years, and the people are welcoming a new generation. Violet Evergarden, a young girl formerly known as “the weapon”, has left the battlefield to start a new life at CH Postal Service. There, she is deeply moved by the work of “Auto Memories Dolls”, who carry pe...",
+      "image": "images/violet-evergarden.png",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Slice of Life"
+      ],
+      "episodes_count": 13
+    },
+    {
+      "name": "Toradora!",
+      "slug": "toradora",
+      "description": "Ryuuji Takasu is a gentle high school student with a love for housework; but in contrast to his kind nature, he has an intimidating face that often gets him labeled as a delinquent. On the other hand is Taiga Aisaka, a small, doll-like student, who is anything but a cute and fragile girl. Equipped with a wooden katana and feisty personality, Taiga is known throughout the school as the \"Palmtop Tig...",
+      "image": "images/toradora.jpg",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "episodes_count": 25
+    },
+    {
+      "name": "Akame ga Kill!",
+      "slug": "akame-ga-kill",
+      "description": "In a land where corruption rules and a ruthless Prime Minister has turned the puppet Emperor's armies of soldiers, assassins and secret police against the people, only one force dares to stand against them: Night Raid, an elite team of relentless killers, each equipped with an Imperial Arm - legendary weapons with unique and incredible powers created in the distant past.\n\nRescued from a fate worse...",
+      "image": "images/akame-ga-kill.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Psychological",
+        "Thriller"
+      ],
+      "episodes_count": 24
+    },
+    {
+      "name": "Boku no Hero Academia 4",
+      "slug": "boku-no-hero-academia-4",
+      "description": "The villain world teeters on the brink of war now that All For One is out of the picture. Shigaraki of the League of Villains squares off with Overhaul of the yakuza, vying for total control of the shadows. Meanwhile, Deku gets tangled in another dangerous internship as he struggles to keep pace with his upperclassman—Mirio.(Source: Crunchyroll)",
+      "image": "images/boku-no-hero-academia-4.png",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "episodes_count": 25
+    },
+    {
+      "name": "Nanatsu no Taizai",
+      "slug": "nanatsu-no-taizai",
+      "description": "When they were accused of trying to overthrow the monarchy, the feared warriors the Seven Deadly Sins were sent into exile. Princess Elizabeth discovers the truth - the Sins were framed by the king's guard, the Holy Knights - too late to prevent them from assassinating her father and seizing the throne!\nNow the princess is on the run, seeking the Sins to help her reclaim the kingdom. But the first...",
+      "image": "images/nanatsu-no-taizai.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Ecchi",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "episodes_count": 24
+    },
+    {
+      "name": "VINLAND SAGA",
+      "slug": "vinland-saga",
+      "description": "Thorfinn is son to one of the Vikings' greatest warriors, but when his father is killed in battle by the mercenary leader Askeladd, he swears to have his revenge. Thorfinn joins Askeladd's band in order to challenge him to a duel, and ends up caught in the middle of a war for the crown of England.\n\n(Source: Kodansha USA)",
+      "image": "images/vinland-saga.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "episodes_count": 24
+    },
+    {
+      "name": "Kono Subarashii Sekai ni Shukufuku wo!",
+      "slug": "kono-subarashii-sekai-ni-shukufuku-wo",
+      "description": "Kazuma Satou decides that today is the day to get out of the house for a bit. Since he dies, pointlessly, it's clearly a bad choice. The goddess who greets him in the afterlife, however, offers him a chance to be reborn in a world not unlike that of a video game, and as a bonus she'll even throw in a cool item or power! Can't possibly be a bad choice, right? Except he arrives with no money at all,...",
+      "image": "images/kono-subarashii-sekai-ni-shukufuku-wo.png",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Ecchi",
+        "Fantasy"
+      ],
+      "episodes_count": 10
+    },
+    {
+      "name": "Horimiya",
+      "slug": "horimiya",
+      "description": "A secret life is the one thing they have in common. At school, Hori is a prim and perfect social butterfly, but the truth is she's a brash homebody. Meanwhile, under a gloomy facade, Miyamura hides a gentle heart, along with piercings and tattoos. In a chance meeting, they both reveal a side they've never shown. Could this blossom into something new?\n\n(Source: Funimation)",
+      "image": "images/horimiya.jpg",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "episodes_count": 13
+    },
+    {
+      "name": "Kimetsu no Yaiba: Mugen Ressha-hen",
+      "slug": "kimetsu-no-yaiba-mugen-ressha-hen",
+      "description": "This Demon Slayer movie sees Tanjiro Kamado and friends from the Demon Slayer corps board the Infinity Train on a new mission to investigate a mysterious series of disappearances, perpetrated by a demon who has been tormenting people and killing the demon slayers who oppose it.",
+      "image": "images/kimetsu-no-yaiba-mugen-ressha-hen.png",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Mystery",
+        "Supernatural"
+      ],
+      "episodes_count": 1
+    },
+    {
+      "name": "Kiseijuu: Sei no Kakuritsu",
+      "slug": "kiseijuu-sei-no-kakuritsu",
+      "description": "They arrive in silence and darkness. They descend from the skies. They have a hunger for human flesh. They are everywhere. They are parasites, alien creatures who must invade–and take control of–a human host to survive. And once they have infected their victims, they can assume any deadly form they choose: monsters with giant teeth, winged demons, creatures with blades for hands. But most have cho...",
+      "image": "images/kiseijuu-sei-no-kakuritsu.jpg",
+      "genres": [
+        "Action",
+        "Drama",
+        "Horror",
+        "Psychological",
+        "Sci-Fi"
+      ],
+      "episodes_count": 24
+    },
+    {
+      "name": "Darling in the Franxx",
+      "slug": "darling-in-the-franxx",
+      "description": "The distant future: Humanity established the mobile fort city, Plantation, upon the ruined wasteland. Within the city were pilot quarters, Mistilteinn, otherwise known as the “Birdcage.” That is where the children live... Their only mission in life was the fight. Their enemies are the mysterious giant organisms known as Kyoryu. The children operate robots known as FRANXX in order to face these sti...",
+      "image": "images/darling-in-the-franxx.png",
+      "genres": [
+        "Action",
+        "Drama",
+        "Mecha",
+        "Psychological",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "episodes_count": 24
+    },
+    {
+      "name": "BLEACH",
+      "slug": "bleach",
+      "description": "Ichigo Kurosaki is a rather normal high school student apart from the fact he has the ability to see ghosts. This ability never impacted his life in a major way until the day he encounters the Shinigami Kuchiki Rukia, who saves him and his family's lives from a Hollow, a corrupt spirit that devours human souls. \n\nWounded during the fight against the Hollow, Rukia chooses the only option available ...",
+      "image": "images/bleach.png",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Supernatural"
+      ],
+      "episodes_count": 366
+    },
+    {
+      "name": "Code Geass: Hangyaku no Lelouch",
+      "slug": "code-geass-hangyaku-no-lelouch",
+      "description": "On August 10th of the year 2010 the Holy Empire of Britannia began a campaign of conquest, its sights set on Japan. Operations were completed in one month thanks to Britannia's deployment of new mobile humanoid armor vehicles dubbed Knightmare Frames. Japan's rights and identity were stripped away, the once proud nation now referred to as Area 11. Its citizens, Elevens, are forced to scratch out a...",
+      "image": "images/code-geass-hangyaku-no-lelouch.jpg",
+      "genres": [
+        "Action",
+        "Drama",
+        "Mecha",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "episodes_count": 25
+    },
+    {
+      "name": "Shin Seiki Evangelion",
+      "slug": "shin-seiki-evangelion",
+      "description": "In the year 2015, the Angels, huge, tremendously powerful, alien war machines, appear in Tokyo for the second time. The only hope for Mankind's survival lies in the Evangelion, a humanoid fighting machine developed by NERV, a special United Nations agency. Capable of withstanding anything the Angels can dish out, the Evangelion's one drawback lies in the limited number of people able to pilot them...",
+      "image": "images/shin-seiki-evangelion.jpg",
+      "genres": [
+        "Action",
+        "Drama",
+        "Mecha",
+        "Mystery",
+        "Psychological",
+        "Sci-Fi"
+      ],
+      "episodes_count": 26
+    },
+    {
+      "name": "Sen to Chihiro no Kamikakushi",
+      "slug": "sen-to-chihiro-no-kamikakushi",
+      "description": "On the way to their new home, 10-year-old Chihiro Ogino's family stumbles upon a deserted theme park. Intrigued, the family investigates the park, though unbeknownst to them, it is secretly inhabited by spirits who sleep by day and appear at night. When Chihiro's mother and father eat food from a restaurant in the street, angry spirits turn them into pigs. Furthermore, a wide sea has appeared betw...",
+      "image": "images/sen-to-chihiro-no-kamikakushi.jpg",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "episodes_count": 1
+    },
+    {
+      "name": "Death Parade",
+      "slug": "death-parade",
+      "description": "When two people die at the same time, they’re sent to a place that’s neither heaven nor hell—a lavish bar between worlds where the stakes are high and the rules are simple: if you win you live again, if you die… you’re gone for good.\n\nDecim is the bartender charged with serving the souls who enter Quindecim. He may make a mean cocktail, but his true profession is to play the role of arbiter—a judg...",
+      "image": "images/death-parade.jpg",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Psychological",
+        "Supernatural",
+        "Thriller"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "JoJo no Kimyou na Bouken (TV)",
+      "slug": "jojo-no-kimyou-na-bouken-tv",
+      "description": "Beginning its tale in 19th century England, young aristocrat Jonathan Joestar finds himself locked in bitter rivalry with Dio Brando, a low-born boy who Jonathan's father took under his wing after the death of Dio's father. Discontent with his station in life, Dio's fathomless lust to reign over all eventually leads him to seek the supernatural powers of an ancient Aztec stone mask in the Joestar'...",
+      "image": "images/jojo-no-kimyou-na-bouken-tv.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Supernatural"
+      ],
+      "episodes_count": 26
+    },
+    {
+      "name": "Ao no Exorcist",
+      "slug": "ao-no-exorcist",
+      "description": "This world consists of two dimensions joined as one, like a mirror. The first is the world in which the humans live, Assiah. The other is the world of demons, Gehenna. Ordinarily, travel between the two, and indeed any kind of contact between the two, is impossible. However the demons can pass over into this world by possessing anything that exist within it. Satan the god of demons, but there's on...",
+      "image": "images/ao-no-exorcist.jpg",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "episodes_count": 25
+    },
+    {
+      "name": "Enen no Shouboutai",
+      "slug": "enen-no-shouboutai",
+      "description": "Year 198 of the Solar Era in Tokyo, special fire brigades are fighting against a phenomenon called spontaneous human combustion where human beings are turned into living infernos called \"Infernals.” While the Infernals are first-generation cases of spontaneous human combustion, later generations possess the ability to manipulate flames while retaining human form. Shinra Kusakabe, a youth who gaine...",
+      "image": "images/enen-no-shouboutai.jpg",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi",
+        "Supernatural"
+      ],
+      "episodes_count": 24
+    },
+    {
+      "name": "One Punch Man 2",
+      "slug": "one-punch-man-2",
+      "description": "Saitama is a hero who only became a hero for fun. After three years of “special training,” he’s become so strong that he’s practically invincible. In fact, he’s too strong—even his mightiest opponents are taken out with a single punch. Now, the great seer Madame Shibabawa’s prediction about the Earth being doomed seems to be coming true as the frequency of monster incidents escalates. Alongside Ge...",
+      "image": "images/one-punch-man-2.png",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Sci-Fi",
+        "Supernatural"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "Cowboy Bebop",
+      "slug": "cowboy-bebop",
+      "description": "Enter a world in the distant future, where Bounty Hunters roam the solar system. Spike and Jet, bounty hunting partners, set out on journeys in an ever struggling effort to win bounty rewards to survive.\nWhile traveling, they meet up with other very interesting people. Could Faye, the beautiful and ridiculously poor gambler, Edward, the computer genius, and Ein, the engineered dog be a good additi...",
+      "image": "images/cowboy-bebop.png",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "episodes_count": 26
+    },
+    {
+      "name": "Kimetsu no Yaiba: Yuukaku-hen",
+      "slug": "kimetsu-no-yaiba-yuukaku-hen",
+      "description": "After visiting the Rengoku residence, Tanjirou and his comrades volunteer for a mission within the Entertainment District, a place where desires are sold and demons dwell. They journey alongside the flashy Sound Hashira, Tengen Uzui, in search of a monstrous foe terrorizing the town. Sworn to slay creatures of the night, the hunt continues.\n\n(Source: Funimation)\n\nNote:\n- The first episode aired wi...",
+      "image": "images/kimetsu-no-yaiba-yuukaku-hen.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "episodes_count": 11
+    },
+    {
+      "name": "Kakegurui",
+      "slug": "kakegurui",
+      "description": "During daylight hours, an exclusive, elite private school prepares its illustrious students for careers in business, politics, and high society. But when darkness falls, the halls of this esteemed establishment transform into an underground gambling den where bright-eyed youngsters learn the timeless art of bluffing, backdoor dealings and social manipulation. In this school for the rich and elite,...",
+      "image": "images/kakegurui.jpg",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Psychological"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "Sword Art Online II",
+      "slug": "sword-art-online-ii",
+      "description": "One year after the SAO incident, Kirito is approached by Seijiro Kikuoka from Japan's Ministry of Internal Affairs and Communications Department \"VR Division\" with a rather peculiar request.\r\n\r\nThat was an investigation on the \"Death Gun\" incident that occurred in the gun and steel filled VRMMO called Gun Gale Online (GGO). \"Players who are shot by a mysterious avatar with a jet black gun lose the...",
+      "image": "images/sword-art-online-ii.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "episodes_count": 24
+    },
+    {
+      "name": "Tate no Yuusha no Nariagari",
+      "slug": "tate-no-yuusha-no-nariagari",
+      "description": "Naofumi Iwatani, an uncharismatic Otaku who spends his days on games and manga, suddenly finds himself summoned to a parallel universe! He discovers he is one of four heroes equipped with legendary weapons and tasked with saving the world from its prophesied destruction. As the Shield Hero, the weakest of the heroes, all is not as it seems. Naofumi is soon alone, penniless, and betrayed. With no o...",
+      "image": "images/tate-no-yuusha-no-nariagari.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "episodes_count": 25
+    },
+    {
+      "name": "Angel Beats!",
+      "slug": "angel-beats",
+      "description": "Otonashi wakes up in the afterlife to find out he has no memories of his life before death. Desperate to survive in a war that could yield another unfortunate fate, he joins the SSS in the battle against Angel, whose very mission is to destroy all inhabitants of this afterlife. As Otonashi struggles to recover his memory and learn more about this world, he finds that not all is as it had seemed.\n(...",
+      "image": "images/angel-beats.png",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Supernatural"
+      ],
+      "episodes_count": 13
+    },
+    {
+      "name": "Mob Psycho 100 II",
+      "slug": "mob-psycho-100-ii",
+      "description": "The second season of Mob Psycho 100. \nKageyama is an ordinary 8th grader who just wants to live a normal life. Although he can disappear in the crowd in a flash, he was actually the most powerful psychic. The lives of those around Mob and his numerous feelings that softly piles up for the eventual explosion. The mysterious group \"Claw\" stands before him once again. In the midst of his youthful day...",
+      "image": "images/mob-psycho-100-ii.jpg",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Psychological",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "episodes_count": 13
+    },
+    {
+      "name": "Tokyo Revengers",
+      "slug": "tokyo-revengers",
+      "description": "Takemichi Hanagaki is a freelancer that's reached the absolute pits of despair in his life. He finds out that the only girlfriend he ever had in his life that he dated in middle school, Hinata Tachibana, had been killed by the ruthless Tokyo Manji Gang.\n\nThe day after hearing about her death, he's standing on the station platform and ends up being pushed over onto the tracks by a herd of people. H...",
+      "image": "images/tokyo-revengers.jpg",
+      "genres": [
+        "Action",
+        "Drama",
+        "Romance",
+        "Supernatural"
+      ],
+      "episodes_count": 24
+    },
+    {
+      "name": "Tensei Shitara Slime Datta Ken",
+      "slug": "tensei-shitara-slime-datta-ken",
+      "description": "Lonely thirty-seven-year-old Satoru Mikami is stuck in a dead-end job, unhappy with his mundane life, but after dying at the hands of a robber, he awakens to a fresh start in a fantasy realm...as a slime monster! As he acclimates to his goopy new existence, his exploits with the other monsters set off a chain of events that will change his new world forever!\n\n(Source: Yen Press)",
+      "image": "images/tensei-shitara-slime-datta-ken.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "episodes_count": 24
+    },
+    {
+      "name": "Jujutsu Kaisen 2nd Season",
+      "slug": "jujutsu-kaisen-2nd-season",
+      "description": "The second season of Jujutsu Kaisen.\n\nThe past comes to light when second-year students Satoru Gojou and Suguru Getou are tasked with escorting young Riko Amanai to Master Tengen. But when a non-sorcerer user tries to kill them, their mission to protect the Star Plasma Vessel threatens to turn them into bitter enemies and cement their destinies—one as the world’s strongest sorcerer, and the other ...",
+      "image": "images/jujutsu-kaisen-2nd-season.jpg",
+      "genres": [
+        "Action",
+        "Drama",
+        "Supernatural"
+      ],
+      "episodes_count": 23
+    },
+    {
+      "name": "Mirai Nikki",
+      "slug": "mirai-nikki",
+      "description": "This psychological thriller, based on the manga written and illustrated by Sakae Esuno, is about Yuki, a loner who's not very good with people. He prefers to write a diary on his cell phone and talk to his imaginary friend, Deus Ex Machina – The God of Time and Space. However, Yuki soon learns that Deus is more than a figment of his imagination when he makes Yuki participate in a battle royale wit...",
+      "image": "images/mirai-nikki.png",
+      "genres": [
+        "Action",
+        "Horror",
+        "Mystery",
+        "Psychological",
+        "Supernatural",
+        "Thriller"
+      ],
+      "episodes_count": 26
+    },
+    {
+      "name": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+      "slug": "kaguya-sama-wa-kokurasetai-tensaitachi-no-renai-zunousen-112641",
+      "description": "After a slow but eventful summer vacation, Shuchiin Academy's second term is now starting in full force. As August transitions into September, Miyuki Shirogane's birthday looms ever closer, leaving Kaguya Shinomiya in a serious predicament as to how to celebrate it. Furthermore, the tenure of the school's 67th student council is coming to an end. Due to the council members being in different class...",
+      "image": "images/kaguya-sama-wa-kokurasetai-tensaitachi-no-renai-zunousen-112641.jpg",
+      "genres": [
+        "Comedy",
+        "Psychological",
+        "Romance",
+        "Slice of Life"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "Charlotte",
+      "slug": "charlotte",
+      "description": "The story centers around the special abilities that occur among a small percentage of boys and girls in puberty. Yuu Otosaka uses his power without others knowing, and lives a fairly normal, average school life. Before him suddenly appears a girl, Nao Tomori. Due to his meeting with her, the fate of special power-users will be exposed.\n\n(Source: Anime News Network)",
+      "image": "images/charlotte.jpg",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Sci-Fi",
+        "Supernatural"
+      ],
+      "episodes_count": 13
+    },
+    {
+      "name": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+      "slug": "mushoku-tensei-isekai-ittara-honki-dasu",
+      "description": "When a 34-year-old underachiever gets run over by a bus, his story doesn’t end there. Reincarnated in a new world as an infant, Rudeus will seize every opportunity to live the life he’s always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he’s always dreamed of, he’s embarking on an epic adventure—with all of his past experience intact!\n\n...",
+      "image": "images/mushoku-tensei-isekai-ittara-honki-dasu.jpg",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Ecchi",
+        "Fantasy"
+      ],
+      "episodes_count": 11
+    },
+    {
+      "name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+      "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e",
+      "description": "Koudo Ikusei Senior High School is a leading school with state-of-the-art facilities. The students there have the freedom to wear any hairstyle and bring any personal effects they desire. Koudo Ikusei is like a utopia, but the truth is that only the most superior students receive favorable treatment.\n\nKiyotaka Ayanokouji is a student of D-class, which is where the school dumps its \"inferior\" stude...",
+      "image": "images/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.jpg",
+      "genres": [
+        "Drama",
+        "Psychological"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "Bungou Stray Dogs",
+      "slug": "bungou-stray-dogs",
+      "description": "Stalked by a beastly white tiger, Atsushi Nakajima has no idea that the menace lives inside him—a power that catches the attention of the Armed Detective Agency. Using inhuman abilities to combat crime, this team takes Atsushi under the wing of their most eccentric member, Dazai. Together, they tear through mafia-muddled mysteries while enemies keep an eye on the tiger’s lofty bounty.\n\n(Source: Fu...",
+      "image": "images/bungou-stray-dogs.jpg",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Mystery",
+        "Supernatural"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "Kill la Kill",
+      "slug": "kill-la-kill",
+      "description": "After the murder of her father, Ryuuko Matoi has been wandering the land in search of his killer. Following her only lead—the missing half of his invention, the Scissor Blade—she arrives at the prestigious Honnouji Academy, a high school unlike any other. The academy is ruled by the imposing and cold-hearted student council president Satsuki Kiryuuin alongside her powerful underlings, the Elite Fo...",
+      "image": "images/kill-la-kill.png",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Ecchi"
+      ],
+      "episodes_count": 24
+    },
+    {
+      "name": "Shingeki no Kyojin: The Final Season Part 2",
+      "slug": "shingeki-no-kyojin-the-final-season-part-2",
+      "description": "The war for Paradis zeroes in on Shiganshina just as Jaegerists have seized control. After taking a huge blow from a surprise attack led by Eren, Marley swiftly acts to return the favor. With Zeke’s true plan revealed and a military forced under new rule, this battle might be fought on two fronts. Does Eren intend on fulfilling his half-brother’s wishes or does he have a plan of his own?\n\n(Source:...",
+      "image": "images/shingeki-no-kyojin-the-final-season-part-2.jpg",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Mystery",
+        "Psychological"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "Shokugeki no Souma",
+      "slug": "shokugeki-no-souma",
+      "description": "Ever since he was little, Souma Yukihira’s main goals have been to beat his father in a cooking contest and take over the family diner. That’s why, when his dad suddenly announces that he’s shutting the restaurant down and sending Souma to cooking school, Souma is shocked. However, Totsuki Academy is no ordinary cooking school. This elite institution is filled with culinary giants like Erina “God ...",
+      "image": "images/shokugeki-no-souma.jpg",
+      "genres": [
+        "Comedy",
+        "Ecchi"
+      ],
+      "episodes_count": 24
+    },
+    {
+      "name": "Tokyo Ghoul √A",
+      "slug": "tokyo-ghoul-a",
+      "description": "The second season of Tokyo Ghoul.The ghouls of Anteiku invaded the Aogiri's site in order to rescue Ken Kaneki who is being tortured. Due to provocation, he unleashed greater power enough to defeat Yamori. To become stronger, he decided to join Aogiri and left Anteiku. Ghoul investigators also making their moves by collecting information about the eye-patched ghoul - Ken Kaneki.(Source: Anime News...",
+      "image": "images/tokyo-ghoul-a.jpg",
+      "genres": [
+        "Action",
+        "Drama",
+        "Horror",
+        "Mystery",
+        "Psychological",
+        "Supernatural"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "Boku no Hero Academia 5",
+      "slug": "boku-no-hero-academia-5",
+      "description": "The rivalry between Class 1-A and Class 1-B heats up in a joint training battle. Eager to be a part of the hero course, brainwashing buff Shinso is tasked with competing on both sides.\n\nBut as each team faces their own weaknesses and discovers new strengths, this showdown might just become a toss-up.\n(Source: Funimation)",
+      "image": "images/boku-no-hero-academia-5.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "episodes_count": 25
+    },
+    {
+      "name": "Haikyuu!! 2nd Season",
+      "slug": "haikyuu-2nd-season",
+      "description": "Following their participation at the Inter-High, the Karasuno High School volleyball team attempts to refocus their efforts, aiming to conquer the Spring tournament instead.\n\nWhen they receive an invitation from long-standing rival Nekoma High, Karasuno agrees to take part in a large training camp alongside many notable volleyball teams in Tokyo and even some national level players. By playing wit...",
+      "image": "images/haikyuu-2nd-season.png",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Sports"
+      ],
+      "episodes_count": 25
+    },
+    {
+      "name": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+      "slug": "ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai",
+      "description": "Jinta Yadomi and his group of childhood friends have become estranged after a tragic accident split them apart. Now in their high school years, a sudden surprise forces each of them to confront their guilt over what happened that day and come to terms with the ghosts of their past. \n(Source: NIS America)",
+      "image": "images/ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai.jpg",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "episodes_count": 11
+    },
+    {
+      "name": "Sousou no Frieren",
+      "slug": "sousou-no-frieren",
+      "description": "The adventure is over but life goes on for an elf mage just beginning to learn what living is all about. Elf mage Frieren and her courageous fellow adventurers have defeated the Demon King and brought peace to the land. But Frieren will long outlive the rest of her former party. How will she come to understand what life means to the people around her? Decades after their victory, the funeral of on...",
+      "image": "images/sousou-no-frieren.jpg",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "episodes_count": 28
+    },
+    {
+      "name": "Made in Abyss",
+      "slug": "made-in-abyss",
+      "description": "The \"Abyss\" is the last unexplored place in the world. Strange and wonderful creatures roam within, and it is full of precious relics that present humans can't recreate. Those that dare to explore the depths are known as \"Cave Raiders.\" An orphan girl named Riko lives on the rim. Her dream is to become a Cave Raider like her mother and solve the mysteries of the cave system. One day, Riko starts e...",
+      "image": "images/made-in-abyss.jpg",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "episodes_count": 13
+    },
+    {
+      "name": "Hataraku Maou-sama!",
+      "slug": "hataraku-maou-sama",
+      "description": "Devil King Sadao is only one step away from conquering the world when he is beaten by Hero Emilia and forced to drift to the other world: modern-day Tokyo. As \"conquering the world\" are the only skills the Devil King possesses—and are obviously unnecessary in his new situation—he must work as a freeter to pay for his living expenses! ",
+      "image": "images/hataraku-maou-sama.jpg",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "episodes_count": 13
+    },
+    {
+      "name": "Jujutsu Kaisen 0",
+      "slug": "jujutsu-kaisen-0",
+      "description": "Yuta Okkotsu is a nervous high school student who is suffering from a serious problem—his childhood friend Rika has turned into a curse and won't leave him alone. Since Rika is no ordinary curse, his plight is noticed by Satoru Gojo, a teacher at Jujutsu High, a school where fledgling exorcists learn how to combat curses. Gojo convinces Yuta to enroll, but can he learn enough in time to confront t...",
+      "image": "images/jujutsu-kaisen-0.jpg",
+      "genres": [
+        "Action",
+        "Supernatural"
+      ],
+      "episodes_count": 1
+    },
+    {
+      "name": "Overlord",
+      "slug": "overlord",
+      "description": "The story takes place in the year 2138 when virtual reality gaming is booming. Yggdrasil, a popular online game is quietly shut down one day. However, the protagonist Momonga decides to not log out. Momonga is then transformed into the image of a skeleton as \"the most powerful wizard.\" The world continues to change, with non-player characters (NPCs) beginning to feel emotion. Having no parents, fr...",
+      "image": "images/overlord.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "episodes_count": 13
+    },
+    {
+      "name": "Ore dake Level Up na Ken",
+      "slug": "ore-dake-level-up-na-ken",
+      "description": "They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Seong Jin-U. After being brutally slaughtered by monsters in a high-ranking dungeon, Jin-U came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.\n\n(Source: ...",
+      "image": "images/ore-dake-level-up-na-ken.png",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+      "slug": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka",
+      "description": "Some adventurers delve into the sprawling labyrinths beneath the city of Orario to find fame and fortune. Others come to test their skills against the legions of monsters lurking in the darkness below. However, Bell Cranel’s grandfather told him a different reason: it’s a great place to rescue (and subsequently meet) girls! Now that Bell’s a dungeon delver himself, the ladies he’s encountering are...",
+      "image": "images/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "episodes_count": 13
+    },
+    {
+      "name": "Sono Bisque Doll wa Koi wo Suru",
+      "slug": "sono-bisque-doll-wa-koi-wo-suru",
+      "description": "High schooler Wakana Gojou cares about one thing: making Hina dolls. With nobody to share his obsession, he has trouble finding friends—or even holding conversation. But after the school’s most popular girl, Marin Kitagawa, reveals a secret of her own, he discovers a new purpose for his sewing skills. Together, they’ll make her cosplay dreams come true! \n\n(Source: Funimation)",
+      "image": "images/sono-bisque-doll-wa-koi-wo-suru.jpg",
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "Slice of Life"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "Another",
+      "slug": "another",
+      "description": "When Kouichi Sakakibara transfers to a new school, he senses a frightening atmosphere in his new class, a secret none of them will talk about. At the center is the beautiful Mei Misaki. Kouichi is immediately drawn to her mysterious aura, but he begins to realize that no one else in the class is aware of her presence. Soon after his arrival, what is known as the Calamity begins, and it claims the ...",
+      "image": "images/another.png",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Psychological",
+        "Supernatural",
+        "Thriller"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "Soul Eater",
+      "slug": "soul-eater",
+      "description": "Set in the Shinigami technical school for weapon meisters, the series revolves around 3 groups of each a weapon meister and a human weapon. Trying to make the latter a \"Death Scythe\" which is the highest title for a weapon and thus fit for use by the Shinigami, they must collect the souls of 99 evil humans and 1 witch.\nMaka & Soul Eater, Black Star & Tsubaki, and Death the Kid with Patty and Liz T...",
+      "image": "images/soul-eater.png",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "episodes_count": 51
+    },
+    {
+      "name": "FAIRY TAIL",
+      "slug": "fairy-tail",
+      "description": "Across the Fiore kingdom, wizards join guilds and make their pay by filling magical needs—but one guild has a reputation as the roughest, rowdiest, most dangerous of all: Fairy Tail!\nWhen four young Fairy Tail members unite, their bond is forged by a power found in neither muscle nor magic and grows stronger with every mission. Whatever you do, don't mess with these friends or you'll get a taste o...",
+      "image": "images/fairy-tail.png",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "episodes_count": 175
+    },
+    {
+      "name": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+      "slug": "kono-subarashii-sekai-ni-shukufuku-wo-2",
+      "description": "When Kazuma Satou died, he was given two choices: pass on to heaven or be revived in a fantasy world. After choosing the new world, the goddess Aqua tasked him with defeating the Demon King, and let him choose any weapon to aid him. Unfortunately, Kazuma chose to bring Aqua herself and has regretted the decision ever since then.\n\nNot only is he stuck with a useless deity turned party archpriest, t...",
+      "image": "images/kono-subarashii-sekai-ni-shukufuku-wo-2.png",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Ecchi",
+        "Fantasy"
+      ],
+      "episodes_count": 10
+    },
+    {
+      "name": "Yahari Ore no Seishun Love Come wa Machigatteiru.",
+      "slug": "yahari-ore-no-seishun-love-come-wa-machigatteiru",
+      "description": "This romantic comedy revolves around an antisocial high school student named Hikigaya Hachiman with a distorted view on life and no friends or girlfriend. When he sees his classmates talking excitedly about living their adolescent lives, he mutters: \"They're a bunch of liars.\" When he is asked about his future dreams, he responds: \"Not working.\" A teacher gets Hachiman to join the 'Volunteer Servi...",
+      "image": "images/yahari-ore-no-seishun-love-come-wa-machigatteiru.jpg",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "episodes_count": 13
+    },
+    {
+      "name": "Dororo",
+      "slug": "dororo",
+      "description": "Dororo, a young orphan thief, meets Hyakkimaru, a powerful ronin. Hyakkimaru's father, a greedy feudal lord, had made a pact with 12 demons, offering his yet-unborn son's body parts in exchange for great power. Thus, Hyakkimaru - who was born without arms, legs, eyes, ears, a nose or a mouth - was abandoned in a river as a baby. Rescued and raised by Dr. Honma, who equips him with artificial limbs...",
+      "image": "images/dororo.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Supernatural"
+      ],
+      "episodes_count": 24
+    },
+    {
+      "name": "Tengen Toppa Gurren Lagann",
+      "slug": "tengen-toppa-gurren-lagann",
+      "description": "In a far away future, mankind lives underground in huge caves, unknowing of a world above with a sky and stars.\nIn the small village of Jiha, Simon, a shy boy who works as a digger discovers a strange glowing object during excavation. The enterprising Kamina, a young man with a pair of rakish sunglasses and the passion of a firey sun, befriends Simon and forms a small band of brothers, the Gurren ...",
+      "image": "images/tengen-toppa-gurren-lagann.png",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Mecha",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "episodes_count": 27
+    },
+    {
+      "name": "Ansatsu Kyoushitsu 2nd Season",
+      "slug": "ansatsu-kyoushitsu-2nd-season",
+      "description": "The second season of Ansatsu Kyoushitsu.\n\nThe students return as school is back in session for the second semester. Following their exploits on the island during summer vacation, Class 3-E continues to sharpen their blades with their sights set on their teacher, the slippery Koro-sensei. They have more to worry about than just their teacher, however, as enemy assassins, both old and new, are out f...",
+      "image": "images/ansatsu-kyoushitsu-2nd-season.jpg",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Supernatural"
+      ],
+      "episodes_count": 25
+    },
+    {
+      "name": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou",
+      "slug": "haikyuu-karasuno-koukou-vs-shiratorizawa-gakuen-koukou",
+      "description": "After the victory against Aoba Jousai High, Karasuno High School, once called “a fallen powerhouse, a crow that can’t fly,” has finally reached the climax of the heated Spring tournament. Now, to advance to nationals, the Karasuno team has to defeat the powerhouse Shiratorizawa Academy. Karasuno’s greatest hurdle is their adversary’s ace, Wakatoshi Ushijima, the number one player in the Miyagi Pre...",
+      "image": "images/haikyuu-karasuno-koukou-vs-shiratorizawa-gakuen-koukou.png",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Sports"
+      ],
+      "episodes_count": 10
+    },
+    {
+      "name": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+      "slug": "rezero-kara-hajimeru-isekai-seikatsu-2nd-season",
+      "description": "Even after dying countless times, Subaru finally ended the threat of the White Whale and defeated the Witch Cult's Sin Archbishop representing sloth, Petelgeuse Romaneeconti. But only shortly after overcoming a tragic ending and reuniting with his beloved Emilia, Subaru learns that Rem has been erased from this world, having fallen victim to the White Whale's Fog of Elimination in the midst of Sub...",
+      "image": "images/rezero-kara-hajimeru-isekai-seikatsu-2nd-season.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Psychological",
+        "Thriller"
+      ],
+      "episodes_count": 13
+    },
+    {
+      "name": "PSYCHO-PASS",
+      "slug": "psycho-pass",
+      "description": "Justice, and the enforcement of it, has changed. In the 22nd century, Japan enforces the Sibyl System, an objective means of determining the threat level of each citizen by examining their mental state for signs of criminal intent, known as their Psycho-Pass. Inspectors uphold the law by subjugating, often with lethal force, anyone harboring the slightest ill-will; alongside them are Enforcers, ja...",
+      "image": "images/psycho-pass.jpg",
+      "genres": [
+        "Action",
+        "Psychological",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "episodes_count": 22
+    },
+    {
+      "name": "Code Geass: Hangyaku no Lelouch R2",
+      "slug": "code-geass-hangyaku-no-lelouch-r2",
+      "description": "A year has passed since \"The Black Rebellion\" and the remaining Black Knights have vanished into the shadows, their leader and figurehead, Zero, executed by the Britannian Empire. Area 11 is once more squirming under the Emperor's oppressive heel as the Britannian armies concentrate their attacks on the European front. But for the Britannians living in Area 11, life is back to normal. On one such ...",
+      "image": "images/code-geass-hangyaku-no-lelouch-r2.jpg",
+      "genres": [
+        "Action",
+        "Drama",
+        "Mecha",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "episodes_count": 25
+    },
+    {
+      "name": "Kimi no Suizou wo Tabetai",
+      "slug": "kimi-no-suizou-wo-tabetai",
+      "description": "Spring time in April and the last of the cherry blossoms are still in bloom. The usually aloof bookworm with no interest in others comes across a book in a hospital waiting room. Handwritten on the cover are the words: \"Living with Dying.\" He soon discovers that it is a diary kept by his very popular and genuinely cheerful classmate, Sakura Yamauchi, who reveals to him that she is secretly sufferi...",
+      "image": "images/kimi-no-suizou-wo-tabetai.jpg",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "episodes_count": 1
+    },
+    {
+      "name": "Howl no Ugoku Shiro",
+      "slug": "howl-no-ugoku-shiro",
+      "description": "Sophie, a quiet girl working in a hat shop, finds her life thrown into turmoil when she is literally swept off her feet by a handsome but mysterious wizard named Howl. The vain and vengeful Witch of the Waste, jealous of their friendship, puts a spell on Sophie. In a life-changing adventure, Sophie climbs aboard Howl's magnificent flying castle and enters a magical world on a quest to break the sp...",
+      "image": "images/howl-no-ugoku-shiro.jpg",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "episodes_count": 1
+    },
+    {
+      "name": "Hyouka",
+      "slug": "hyouka",
+      "description": "Energy-conservative high school student Houtarou Oreki ends up with more than he bargained for when he signs up for the Classic Literature Club at his sister's behest—especially when he realizes how deep-rooted the club's history really is. Begrudgingly, Oreki is dragged into an investigation concerning the 45-year-old mystery that surrounds the club room.\n\nAccompanied by his fellow club members, ...",
+      "image": "images/hyouka.jpg",
+      "genres": [
+        "Mystery",
+        "Romance",
+        "Slice of Life"
+      ],
+      "episodes_count": 22
+    },
+    {
+      "name": "DEVILMAN crybaby",
+      "slug": "devilman-crybaby",
+      "description": "New Devilman project marking Go Nagai's 50th anniversary as a creator.The protagonist Akira Fudou learns from his best friend, Ryou Asuka, that an ancient race of demons has returned to take back the world from humans. Ryou tells Akira that the only way to defeat the demons is to incorporate their supernatural powers, and suggests that he unite with a demon himself. Akira succeeds in transforming ...",
+      "image": "images/devilman-crybaby.png",
+      "genres": [
+        "Action",
+        "Drama",
+        "Horror",
+        "Psychological",
+        "Supernatural"
+      ],
+      "episodes_count": 10
+    },
+    {
+      "name": "Fate/Zero",
+      "slug": "fatezero",
+      "description": "With the promise of granting any wish, the omnipotent Holy Grail triggered three wars in the past, each too cruel and fierce to leave a victor. In spite of that, the wealthy Einzbern family is confident that the Fourth Holy Grail War will be different; namely, with a vessel of the Holy Grail now in their grasp. Solely for this reason, the much hated \"Magus Killer\" Kiritsugu Emiya is hired by the E...",
+      "image": "images/fatezero.png",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "episodes_count": 13
+    },
+    {
+      "name": "Tenki no Ko",
+      "slug": "tenki-no-ko",
+      "description": "High school student Hodaka leaves his home on an isolated island and moves to Tokyo, but he immediately becomes broke. He lives his days in isolation, but finally finds a job as a writer for a shady occult magazine. After he starts his job, the weather has been rainy day after day. In a corner of the crowded and busy city, Hodaka meets a young woman named Hina. Due to certain circumstances, Hina a...",
+      "image": "images/tenki-no-ko.png",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "episodes_count": 1
+    },
+    {
+      "name": "Saiki Kusuo no Ψ-nan",
+      "slug": "saiki-kusuo-no-ψ-nan",
+      "description": "To the average person, psychic abilities might seem a blessing; for Kusuo Saiki, however, this couldn't be further from the truth. Gifted with a wide assortment of supernatural abilities ranging from telepathy to x-ray vision, he finds this so-called blessing to be nothing but a curse. As all the inconveniences his powers cause constantly pile up, all Kusuo aims for is an ordinary, hassle-free lif...",
+      "image": "images/saiki-kusuo-no-ψ-nan.jpg",
+      "genres": [
+        "Comedy",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "episodes_count": 120
+    },
+    {
+      "name": "Chuunibyou demo Koi ga Shitai!",
+      "slug": "chuunibyou-demo-koi-ga-shitai",
+      "description": "Everybody has had that stage in their life where they have thought themselves to be special, different from the masses of ordinary humans. They might go as far as seeing themselves capable of wielding mystical powers, or maybe even believe themselves to have descended from a fantasy realm. This \"disease\" is known as \"chuunibyou\" and is often the source of some of the most embarrassing moments of a...",
+      "image": "images/chuunibyou-demo-koi-ga-shitai.jpg",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+      "slug": "kimetsu-no-yaiba-katanakaji-no-sato-hen",
+      "description": "Adaptation of the Swordsmith Village Arc.\n\nTanjiro’s journey leads him to the Swordsmith Village, where he reunites with two Hashira, members of the Demon Slayer Corps’ highest-ranking swordsmen - Mist Hashira Muichiro Tokito and Love Hashira Mitsuri Kanroji. With the shadows of demons lurking near, a new battle begins for Tanjiro and his comrades.\n\nNotes:\n• The first episode has a runtime of ~49 ...",
+      "image": "images/kimetsu-no-yaiba-katanakaji-no-sato-hen.png",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "episodes_count": 11
+    },
+    {
+      "name": "Kimetsu no Yaiba: Mugen Ressha-hen (TV)",
+      "slug": "kimetsu-no-yaiba-mugen-ressha-hen-tv",
+      "description": "In Demon Slayer: Kimetsu no Yaiba Mugen Train Arc, Tanjiro Kamado and his fellow Demon Slayer members embark on a mission aboard the Infinity Train. Their new mission is to investigate a series of mysterious disappearances, carried out by a demon that has been terrorizing passengers and killing the demon slayers who oppose it.\n\nNote: The first episode is entirely anime original. Episodes 2-7 are a...",
+      "image": "images/kimetsu-no-yaiba-mugen-ressha-hen-tv.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Mystery",
+        "Supernatural"
+      ],
+      "episodes_count": 7
+    },
+    {
+      "name": "Bakemonogatari",
+      "slug": "bakemonogatari",
+      "description": "First season of the Monogatari Series, part 1/6. Contains the arcs Hitagi Crab, Mayoi Snail, Suruga Monkey, Nadeko Snake, and Tsubasa Cat from the Bakemonogatari light novels.\nThanks to Meme Oshino, Koyomi Araragi, a high school student, is able to remain a human after coming across a female vampire... However, since the incident, Koyomi seems to meet girls who have an apparition-related issue. Hi...",
+      "image": "images/bakemonogatari.jpg",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Mystery",
+        "Psychological",
+        "Romance",
+        "Supernatural"
+      ],
+      "episodes_count": 15
+    },
+    {
+      "name": "JoJo no Kimyou na Bouken: Stardust Crusaders",
+      "slug": "jojo-no-kimyou-na-bouken-stardust-crusaders",
+      "description": "In a Japanese jail sits 17-year-old Jotaro Kujo: punk, fighter, delinquent...and possessed by a force beyond his control! Around the world, evil spirits are awakening: \"Stands,\" monstrous invisible creatures which give their bearers incredible powers. To save his mother's life, Jotaro must tame his dark forces and travel around the world to Cairo, Egypt, where a hundred-year-old vampire thirsts fo...",
+      "image": "images/jojo-no-kimyou-na-bouken-stardust-crusaders.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Supernatural"
+      ],
+      "episodes_count": 24
+    },
+    {
+      "name": "Cyberpunk: Edgerunners",
+      "slug": "cyberpunk-edgerunners",
+      "description": "An original anime series set in in the universe of Cyberpunk 2077.\n\nCyberpunk: Edgerunners tells a standalone, 10-episode story about a street kid trying to survive in a technology and body modification-obsessed city of the future. Having everything to lose, he chooses to stay alive by becoming an edgerunner—a mercenary outlaw also known as a cyberpunk.\n\n(Source: CD PROJEKT RED)\n\nNote: The first e...",
+      "image": "images/cyberpunk-edgerunners.jpg",
+      "genres": [
+        "Action",
+        "Drama",
+        "Psychological",
+        "Sci-Fi"
+      ],
+      "episodes_count": 10
+    },
+    {
+      "name": "Kami no Tou: Tower of God",
+      "slug": "kami-no-tou-tower-of-god",
+      "description": "There is a tower that summons chosen people called \"Regulars\" with the promise of granting their deepest desires. Whether it be wealth, fame, authority, or something that surpasses them all—everything awaits those who reach the top.\n\nTwenty-Fifth Bam is a boy who had only known a dark cave, a dirty cloth, and an unreachable light his entire life. So when a girl named Rachel came to him through the...",
+      "image": "images/kami-no-tou-tower-of-god.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "episodes_count": 13
+    },
+    {
+      "name": "Kobayashi-san Chi no Maidragon",
+      "slug": "kobayashi-san-chi-no-maidragon",
+      "description": "What happens when a drunken promise leads to living with a dragon? That’s Miss Kobayashi’s new reality when Tohru appears in her life. With a maid-slash-dragon in her home, she’s experiencing a whole new level of domestic bliss! But the dragons don’t stop there. On a mission to find Tohru appears Kanna, a little dragon with a big attitude. Before she knows it, Kobayashi’s got a house full of drago...",
+      "image": "images/kobayashi-san-chi-no-maidragon.png",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Slice of Life"
+      ],
+      "episodes_count": 13
+    },
+    {
+      "name": "Dandadan",
+      "slug": "dandadan",
+      "description": "This is a story about Momo, a high school girl who comes from a family of spirit mediums, and her classmate Okarun, an occult fanatic. After Momo rescues Okarun from being bullied, they begin talking. However, an argument ensues between them since Momo believes in ghosts but denies aliens exist, and Okarun believes in aliens but denies ghosts exist.\n\nTo prove to each other what they believe in is ...",
+      "image": "images/dandadan.jpg",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Sci-Fi",
+        "Supernatural"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "Yakusoku no Neverland 2",
+      "slug": "yakusoku-no-neverland-2",
+      "description": "The second season of Yakusoku no Neverland.\n\nFifteen children escape Grace Field House, a false paradise, hoping for a chance at freedom. Instead, they encounter plants and animals they have never before seen, and are chased by demons. The outside world is so beautiful, and yet is almost too cruel to face.\n\nEven so, the children refuse to give up. They are guided in their search for better lives o...",
+      "image": "images/yakusoku-no-neverland-2.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Psychological",
+        "Thriller"
+      ],
+      "episodes_count": 11
+    },
+    {
+      "name": "Dr. STONE: STONE WARS",
+      "slug": "dr-stone-stone-wars",
+      "description": "The second season of Dr. STONE\n\nArmed with the power of science and a genius intellect, Senkuu is determined to save humanity. However, Tsukasa’s empire goes on the offensive to halt the progress of science. Bolder choices are made as these two start a war that rocks the Stone World. \n(Source: Crunchyroll)",
+      "image": "images/dr-stone-stone-wars.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "episodes_count": 11
+    },
+    {
+      "name": "Wotaku ni Koi wa Muzukashii",
+      "slug": "wotaku-ni-koi-wa-muzukashii",
+      "description": "Having slept through all four of her alarms, the energetic Narumi Momose finds herself running late for her first day of work at a new office. As she races to catch her train, she makes a promise to herself that none of her coworkers will find out about her dark secret: that she is an otaku and a fujoshi. Her plan goes instantly awry, though, when she runs into Hirotaka Nifuji, an old friend from ...",
+      "image": "images/wotaku-ni-koi-wa-muzukashii.png",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "episodes_count": 11
+    },
+    {
+      "name": "Owari no Seraph",
+      "slug": "owari-no-seraph",
+      "description": "The story takes place in a world where an unknown virus has killed the entire human population except for children under 13. Those children were then enslaved by vampires. The manga centers on Yuichiro Hyakuya, a human who dreams of becoming strong enough to kill all vampires.\n\n(Source: Anime News Network)",
+      "image": "images/owari-no-seraph.png",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Mystery",
+        "Supernatural"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "MONSTER",
+      "slug": "monster",
+      "description": "Dr. Kenzo Tenma is a renowned Japanese brain surgeon working at a leading hospital in Germany. One night, Dr. Tenma risks his reputation and career to save the life of a critically wounded young boy over that of the town mayor who had been planning to support the hospital financially. A string of mysterious murders begin to occur soon after the operation, and Dr. Tenma emerges as the primary suspe...",
+      "image": "images/monster.jpg",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery",
+        "Psychological",
+        "Thriller"
+      ],
+      "episodes_count": 74
+    },
+    {
+      "name": "Mahou Shoujo Madoka☆Magica",
+      "slug": "mahou-shoujo-madokamagica",
+      "description": "One night, 14-year-old Madoka Kaname has a terrible nightmare - against the backdrop of a devastated city, she witnesses a girl fight a losing battle against a dreadful being lingering above, while a cat-like magical creature tells Madoka the only way to change such tragic outcome is for her to make a contract with him and become a magical girl. \nThe next day, the teen's dream seemingly becomes re...",
+      "image": "images/mahou-shoujo-madokamagica.jpg",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Mahou Shoujo",
+        "Psychological",
+        "Thriller"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "Noragami ARAGOTO",
+      "slug": "noragami-aragoto",
+      "description": "The second season of Noragami.\n\nLife for minor god Yato isn't getting any easier. He's still broke, shrineless, and his partner-slash-sword-regalia has zero respect for him. Worse yet, Bishamon, one of the deadliest war gods, is after his life. Blaming him for the death of her past regalia, she won't stop until she kills him. But there's more to that story than she could ever realize. And as if th...",
+      "image": "images/noragami-aragoto.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Supernatural"
+      ],
+      "episodes_count": 13
+    },
+    {
+      "name": "SPY×FAMILY Part 2",
+      "slug": "spyfamily-part-2",
+      "description": "The second half of SPYxFAMILY.\n\nWith Anya Forger successfully enrolled at the renowned Eden Academy, Operation Strix advances to its second phase. To investigate Ostanian politician Donovan Desmond, Anya must either befriend his son Damian or collect eight Stella Stars to become an Imperial Scholar. Fortunately, Anya has already acquired her first star. In celebration, her adoptive father, Loid, d...",
+      "image": "images/spyfamily-part-2.jpg",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "episodes_count": 13
+    },
+    {
+      "name": "Jigokuraku",
+      "slug": "jigokuraku",
+      "description": "The Edo period is nearing its end. Gabimaru, a shinobi formerly known as the strongest in Iwagakure who is now a death row convict, is told that he will be acquitted and set free if he can bring back the Elixir of Life from an island that is rumored to be the Buddhist pure land Sukhavati. In hopes of reuniting with his beloved wife, Gabimaru heads to the island along with the executioner Yamada As...",
+      "image": "images/jigokuraku.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Mystery",
+        "Supernatural"
+      ],
+      "episodes_count": 13
+    },
+    {
+      "name": "BANANA FISH",
+      "slug": "banana-fish",
+      "description": "Nature made Ash Lynx beautiful; nurture made him a cold ruthless killer. A runaway brought up as the adopted heir and sex toy of \"Papa\" Dino Golzine, Ash, now at the rebellious age of seventeen, forsakes the kingdom held out by the devil who raised him. But the hideous secret that drove Ash's older brother mad in Vietnam has suddenly fallen into Papa's insatiably ambitious hands—and it's exactly t...",
+      "image": "images/banana-fish.jpg",
+      "genres": [
+        "Action",
+        "Drama",
+        "Psychological",
+        "Thriller"
+      ],
+      "episodes_count": 24
+    },
+    {
+      "name": "Fumetsu no Anata e",
+      "slug": "fumetsu-no-anata-e",
+      "description": "In the beginning, an \"orb\" is cast unto Earth. \"It\" can do two things: change into the form of the thing that stimulates \"it\"; and come back to life after death. \"It\" morphs from orb to rock, then to wolf, and finally to boy, but roams about like a newborn who knows nothing. As a boy, \"it\" becomes Fushi.\n\nThrough encounters with human kindness, Fushi not only gains survival skills but grows as a \"...",
+      "image": "images/fumetsu-no-anata-e.jpg",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Psychological",
+        "Supernatural"
+      ],
+      "episodes_count": 20
+    },
+    {
+      "name": "Komi-san wa, Komyushou desu.",
+      "slug": "komi-san-wa-komyushou-desu",
+      "description": "Timid Tadano is a total wallflower, and that’s just the way he likes it. But all that changes when he finds himself alone in a classroom on the first day of high school with the legendary Komi. He quickly realizes she isn’t aloof—she’s just super awkward. Now he’s made it his mission to help her on her quest to make 100 friends!\n\n(Source: Viz Media)",
+      "image": "images/komi-san-wa-komyushou-desu.png",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
+      "slug": "jojo-no-kimyou-na-bouken-diamond-wa-kudakenai",
+      "description": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai adapts the fourth part of the JoJo no Kimyou na Bouken manga series.\n\nIt's the year 1999, 11 years after Jotaro Kujo's desperate fight against DIO in Egypt. Jotaro meets with Josuke Higashikata, the illegitimate son of his grandfather Joseph Joestar. He discovers that Josuke also has the same \"Stand\" power and that a new threat is surfacing in Morioh ...",
+      "image": "images/jojo-no-kimyou-na-bouken-diamond-wa-kudakenai.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Mystery",
+        "Supernatural"
+      ],
+      "episodes_count": 39
+    },
+    {
+      "name": "Kanojo, Okarishimasu",
+      "slug": "kanojo-okarishimasu",
+      "description": "Kinoshita Kazuya is a 20-year-old failure of a college student. He managed to kiss his girlfriend once, but was dumped after a month. \"Ugh... Damn it. I never want to go through that again.\" \n\nCompletely spiteful, Kazuya uses a certain method to date a girl. He goes to their meeting place and suddenly hears, \"You're Kazuya-kun, right?\" A beautiful girl brushing her long, black hair behind her ear ...",
+      "image": "images/kanojo-okarishimasu.jpg",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "Fruits Basket: 1st Season",
+      "slug": "fruits-basket-1st-season",
+      "description": "Tohru Honda thought her life was headed for misfortune when a family tragedy left her living in a tent. When her small home is discovered by the mysterious Soma clan, she suddenly finds herself living with Yuki, Kyo, and Shigure Soma. But she quickly learns their family has a bizarre secret of their own: when hugged by the opposite sex, they turn into the animals of the Zodiac!\n\n(Source: Crunchyro...",
+      "image": "images/fruits-basket-1st-season.jpg",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "episodes_count": 25
+    },
+    {
+      "name": "High School DxD",
+      "slug": "high-school-dxd",
+      "description": "Issei Hyodo is your average perverted high school student whose one wish in life is to have his own harem, but he's got to be one of the unluckiest guys around. He goes on his first date with a girl only to get brutally attacked and killed when it turns out the girl is really a vicious fallen angel. To top it all off, he's later reincarnated as a devil by his gorgeous senpai who tells him that she...",
+      "image": "images/high-school-dxd.jpg",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Ecchi",
+        "Fantasy",
+        "Romance"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "Tokyo Ghoul:re",
+      "slug": "tokyo-ghoulre",
+      "description": "Two years have passed since the CCG’s raid on Anteiku. Although the atmosphere in Tokyo has changed drastically due to the increased influence of the CCG, ghouls continue to pose a problem as they have begun taking caution, especially the terrorist organization Aogiri Tree, who acknowledge the CCG’s growing threat to their existence.\nThe creation of a special team, known as the Quinx Squad, may pr...",
+      "image": "images/tokyo-ghoulre.jpg",
+      "genres": [
+        "Action",
+        "Horror",
+        "Mystery",
+        "Psychological",
+        "Supernatural"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "Tensei Shitara Slime Datta Ken 2nd Season",
+      "slug": "tensei-shitara-slime-datta-ken-2nd-season",
+      "description": "The second season of Tensei Shitara Slime Datta Ken.\n\nNow that the Jura Tempest Alliance is growing even further, they will now be meeting the animal kingdom of Eurazania, reuniting with King Gazel, rising tensions between monsters and humans, and Rimuru encountering the strongest enemy he’s ever faced.\n\n(Source: Funimation)",
+      "image": "images/tensei-shitara-slime-datta-ken-2nd-season.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "[Oshi no Ko]",
+      "slug": "oshi-no-ko",
+      "description": "When a pregnant young starlet appears in Gorou Amemiya’s countryside medical clinic, the doctor takes it upon himself to safely (and secretly) deliver Ai Hoshino’s child so she can make a scandal-free return to the stage. But no good deed goes unpunished, and on the eve of her delivery, he finds himself slain at the hands of Ai’s deluded stalker — and subsequently reborn as Ai’s child, Aquamarine ...",
+      "image": "images/oshi-no-ko.png",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Psychological",
+        "Supernatural"
+      ],
+      "episodes_count": 11
+    },
+    {
+      "name": "Go-toubun no Hanayome",
+      "slug": "go-toubun-no-hanayome",
+      "description": "Uesugi Fuutarou, a high school second-year from a poor family, receives a highly appealing offer to work part-time as a tutor... but his students turn out to be girls from his own class! What's more, they're quintuplets... and all five are beautiful, but happen to be problem students who have borderline grades and hate studying! Looks like his first assignment will be to win all the sisters' trust...",
+      "image": "images/go-toubun-no-hanayome.png",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "Blue Lock",
+      "slug": "blue-lock",
+      "description": "Japan’s desire for World Cup glory leads the Japanese Football Association to launch a new rigorous training program to find the national team’s next striker. Three hundred high school players are pitted against each other for the position, but only one will come out on top. Who among them will be the striker to usher in a new era of Japanese soccer?\n\n(Source: Crunchyroll)",
+      "image": "images/blue-lock.png",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sports"
+      ],
+      "episodes_count": 24
+    },
+    {
+      "name": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+      "slug": "mushoku-tensei-isekai-ittara-honki-dasu-part-2",
+      "description": "After the mysterious mana calamity, Rudeus Greyrat and his fierce student Eris Boreas Greyrat are teleported to the Demon Continent. There, they team up with their newfound companion Ruijerd Supardia—the former leader of the Superd's Warrior group—to form \"Dead End,\" a successful adventurer party. Making a name for themselves, the trio journeys across the continent to make their way back home to F...",
+      "image": "images/mushoku-tensei-isekai-ittara-honki-dasu-part-2.jpg",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Ecchi",
+        "Fantasy"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "THE GOD OF HIGH SCHOOL",
+      "slug": "the-god-of-high-school",
+      "description": "It all began as a fighting tournament to seek out for the best fighter among all high school students in Korea. Mori Jin, a Taekwondo specialist and a high school student, soon learns that there is something much greater beneath the stage of the tournament.(Source: WEBTOON)",
+      "image": "images/the-god-of-high-school.png",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "episodes_count": 13
+    },
+    {
+      "name": "Goblin Slayer",
+      "slug": "goblin-slayer",
+      "description": "A young priestess has formed her first adventuring party, but almost immediately they find themselves in distress. It's the Goblin Slayer who comes to their rescue--a man who's dedicated his life to the extermination of all goblins, by any means necessary. And when rumors of his feats begin to circulate, there's no telling who might come calling next...\n\n(Source: Yen Press)",
+      "image": "images/goblin-slayer.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "Mononoke-hime",
+      "slug": "mononoke-hime",
+      "description": "A calm village residing in the mountains comes under attack from a demon-possessed boar one day.\nAshitaka, a young man and prince of the tribe, engages the creature in an attempt to save his village. During the battle, the boar bites him on the arm, leaving it blackened and cursed. Following his village's traditions, Ashitaka is exiled and becomes a wanderer, looking for a solution to the curse be...",
+      "image": "images/mononoke-hime.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "episodes_count": 1
+    },
+    {
+      "name": "86: Eighty Six",
+      "slug": "86-eighty-six",
+      "description": "Called “Juggernaut,” these are the unmanned combat drones developed by the Republic of San Magnolia in answer to the attacks by the autonomous unmanned drones of the neighboring Empire of Giad, the “Legion”. But they’re only unmanned in name. In reality, they are piloted by the Eighty-sixers—those considered to be less than human and treated as mere tools.\n\nDetermined to achieve his own mysterious...",
+      "image": "images/86-eighty-six.jpg",
+      "genres": [
+        "Action",
+        "Drama",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "episodes_count": 11
+    },
+    {
+      "name": "Durarara!!",
+      "slug": "durarara",
+      "description": "In Tokyo's downtown district of Ikebukuro, amidst many strange rumors and warnings of anonymous gangs and dangerous occupants, one urban legend stands out above the rest—the existence of a headless \"Black Rider\" who is said to be seen driving a jet-black motorcycle through the city streets.\nRyuugamine Mikado has always longed for the excitement of the city life, and an invitation from a childhood ...",
+      "image": "images/durarara.png",
+      "genres": [
+        "Action",
+        "Mystery",
+        "Supernatural"
+      ],
+      "episodes_count": 24
+    },
+    {
+      "name": "Haikyuu!! TO THE TOP",
+      "slug": "haikyuu-to-the-top",
+      "description": "The fourth season of Haikyuu!!The Karasuno High School Volleyball Club finally won their way into the nationals after an intense battle for the Miyagi Prefecture Spring Tournament qualifiers. As they were preparing for the nationals, Kageyama is invited to go to All-Japan Youth Training Camp. At the same time, Tsukishima is invited to go to a special rookie select training camp for first-years in ...",
+      "image": "images/haikyuu-to-the-top.png",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Sports"
+      ],
+      "episodes_count": 13
+    },
+    {
+      "name": "CLANNAD",
+      "slug": "clannad",
+      "description": "Tomoya is a bitter, third year high school student. His mother passed away, causing his father to resort to alcohol and gambling. Tomoya is distant with his father and has become a delinquent in the years since his mother's death. Walking to school, he meets Nagisa Furukawa who is a year older but is repeating the grade due to illness. She is alone, as most of her friends have moved on. The two be...",
+      "image": "images/clannad.jpg",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "episodes_count": 23
+    },
+    {
+      "name": "JoJo no Kimyou na Bouken: Ougon no Kaze",
+      "slug": "jojo-no-kimyou-na-bouken-ougon-no-kaze",
+      "description": "The fifth story arc of the long-running JoJo's Bizarre Adventure series.\nGiorno Giovanna, a young man living in Naples, has the blood of DIO -- the eternal enemy of the Joestar clan -- running in his veins. Giorno becomes a delinquent due to being persecuted since childhood. However, he's led back onto the right path thanks to a gangster who saved him and taught him to believe in others. Bizarrely...",
+      "image": "images/jojo-no-kimyou-na-bouken-ougon-no-kaze.png",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Mystery",
+        "Supernatural"
+      ],
+      "episodes_count": 39
+    },
+    {
+      "name": "Enen no Shouboutai: Ni no Shou",
+      "slug": "enen-no-shouboutai-ni-no-shou",
+      "description": "Shinra and Company 8 have figured out the Evangelist’s goal: to gather Adolla Bursts from Shinra and Shou. After learning more about his past from Captain Burns, Shinra becomes more motivated to discover the truth about his mother and save Shou again.\n\nBut a mysterious girl known as the “First Pillar” reveals the Evangelist’s master plan to start another Great Cataclysm!\n\n(Source: Funimation)",
+      "image": "images/enen-no-shouboutai-ni-no-shou.png",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi",
+        "Supernatural"
+      ],
+      "episodes_count": 24
+    },
+    {
+      "name": "Gintama",
+      "slug": "gintama",
+      "description": "Life isn't easy in feudal Japan... especially since the aliens landed and conquered everything! Oh sure, the new health care is great, but the public ban on the use of swords has left a lot of defeated samurai with a difficult decision to make concerning their future career paths! This is especially true if, as in the case of Gintoki Sakata, they're not particularly inclined towards holding a day ...",
+      "image": "images/gintama.jpg",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "episodes_count": 201
+    },
+    {
+      "name": "Wonder Egg Priority",
+      "slug": "wonder-egg-priority",
+      "description": "This is the story of Ai, an introverted girl whose fate is forever changed when she acquires a mysterious “Wonder Egg” from a deserted arcade. That night, her dreams blend into reality, and as other girls obtain their own Wonder Eggs, Ai discovers new friends—and the magic within herself.\n\n(Source: Funimation)",
+      "image": "images/wonder-egg-priority.jpg",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Mystery",
+        "Psychological",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "episodes_count": 12
+    },
+    {
+      "name": "Nanatsu no Taizai: Imashime no Fukkatsu",
+      "slug": "nanatsu-no-taizai-imashime-no-fukkatsu",
+      "description": "Melodias, Hawk, and Elizabeth retook the Kingdom of Leones from the Holy Knights. The festival went off without a hitch and the crew enjoyed their well-earned peace. And yet, another threat looms on the horizon. The Ten Commandments, a group of elite demon clan warriors, have their sights set on the kingdom.\n\n(Source: Anime News Network)",
+      "image": "images/nanatsu-no-taizai-imashime-no-fukkatsu.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Ecchi",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "episodes_count": 24
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block content %}
+
+<header class="mb-4">
+  <h1 class="text-2xl font-bold">This page has been removed</h1>
+  <p class="text-sm text-gray-600">Filler lists have been permanently removed. Use the main watch order page to track episodes.</p>
+</header>
+
+<div class="mt-6">
+  <a href="{{ url_for('watch_order', slug=anime.slug) }}" class="text-blue-500 hover:underline">← Back to Watch Order</a>
+</div>
+
+{% endblock %}
